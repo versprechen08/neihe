@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rmdir \"/Users/zq08/MyCode/AI Full Stack/neihe/frontend/src/{components,pages,hooks,services,styles,types,assets}\")"
+    ],
+    "additionalDirectories": [
+      "/Users/zq08/MyCode/AI Full Stack/neihe/frontend/src/{components,pages,hooks,services,styles,types,assets}"
+    ]
+  }
+}
