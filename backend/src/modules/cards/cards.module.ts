@@ -3,11 +3,11 @@ import { TypeOrmModule } from '@nestjs/typeorm';
 import { PhilosophyCard } from './philosophy-card.entity';
 import { Favorite } from './favorite.entity';
 import { CardsService } from './cards.service';
-// TODO: CardsController
+import { CardsController } from './cards.controller';
 
 @Module({
   imports: [TypeOrmModule.forFeature([PhilosophyCard, Favorite])],
-  controllers: [], // TODO: CardsController
+  controllers: [CardsController],
   providers: [CardsService],
   exports: [CardsService],
 })
