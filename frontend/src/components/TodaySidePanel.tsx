@@ -25,30 +25,35 @@ const UPCOMING_FEATURES: UpcomingFeature[] = [
 
 export function TodaySidePanel() {
   return (
-    <aside className="flex flex-col gap-6">
-      <section className="rounded-2xl border border-card-border bg-white p-6">
-        <h2 className="text-sm font-medium text-ink">三家智慧</h2>
-        <ul className="mt-4 flex flex-col gap-3">
+    <aside className="flex flex-col gap-6 lg:gap-8">
+      <section className="rounded-2xl border border-card-border bg-white p-6 lg:p-8">
+        <h2 className="text-sm font-medium text-ink lg:text-base">三家智慧</h2>
+        <ul className="mt-4 flex flex-col gap-3 lg:mt-6 lg:gap-5">
           {SCHOOL_ORDER.map((school) => (
             <li key={school} className="flex items-center gap-3">
-              <span className={`h-2.5 w-2.5 shrink-0 rounded-full ${SCHOOL_BADGE_CLASS[school]}`} />
+              <span
+                className={`h-2.5 w-2.5 shrink-0 rounded-full lg:h-3 lg:w-3 ${SCHOOL_BADGE_CLASS[school]}`}
+              />
               <div>
-                <p className="text-sm text-ink">{SCHOOL_META[school].label}</p>
-                <p className="text-xs text-ash">{SCHOOL_BLURBS[school]}</p>
+                <p className="text-sm text-ink lg:text-base">{SCHOOL_META[school].label}</p>
+                <p className="text-xs text-ash lg:text-sm">{SCHOOL_BLURBS[school]}</p>
               </div>
             </li>
           ))}
         </ul>
       </section>
 
-      <section className="rounded-2xl border border-card-border bg-white p-6">
-        <h2 className="text-sm font-medium text-ink">更多功能</h2>
-        <ul className="mt-4 flex flex-col gap-1">
+      <section className="rounded-2xl border border-card-border bg-white p-6 lg:p-8">
+        <h2 className="text-sm font-medium text-ink lg:text-base">更多功能</h2>
+        <ul className="mt-4 flex flex-col gap-1 lg:mt-6">
           {UPCOMING_FEATURES.map((feature) => (
             <li key={feature.to}>
-              <Link to={feature.to} className="block rounded-lg p-2 transition-colors hover:bg-paper">
-                <p className="text-sm text-ink">{feature.label}</p>
-                <p className="text-xs text-ash">{feature.description}</p>
+              <Link
+                to={feature.to}
+                className="block rounded-lg p-2 transition-colors hover:bg-paper lg:p-3"
+              >
+                <p className="text-sm text-ink lg:text-base">{feature.label}</p>
+                <p className="text-xs text-ash lg:text-sm">{feature.description}</p>
               </Link>
             </li>
           ))}

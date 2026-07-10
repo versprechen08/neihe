@@ -82,11 +82,11 @@ export function TodayPage() {
   }
 
   return (
-    <div className="mx-auto max-w-5xl px-4 pb-24 pt-10 lg:px-8 lg:pb-16 lg:pt-12">
-      <h1 className="font-serif text-2xl text-ink">今日一句</h1>
-      {isUsingMockData && <p className="mt-1 text-xs text-ash">离线模式 · 显示本地内容</p>}
+    <div className="mx-auto max-w-6xl px-4 pb-24 pt-10 lg:px-10 lg:pb-20 lg:pt-16">
+      <h1 className="font-serif text-2xl text-ink lg:text-4xl">今日一句</h1>
+      {isUsingMockData && <p className="mt-1 text-xs text-ash lg:text-sm">离线模式 · 显示本地内容</p>}
 
-      <div className="mt-5 grid gap-6 lg:grid-cols-[1fr_320px]">
+      <div className="mt-5 grid gap-6 lg:mt-10 lg:grid-cols-[1fr_360px] lg:gap-10">
         <PhilosophyCardView card={card} onNext={handleNext} isLoadingNext={isFetchingNext} />
         <TodaySidePanel />
       </div>
