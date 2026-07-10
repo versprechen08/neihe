@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { PhilosophyCard as PhilosophyCardView } from '../components/PhilosophyCard';
+import { TodaySidePanel } from '../components/TodaySidePanel';
 import { cardsApi } from '../services/api';
 import { SEED_CARDS } from '../services/seed-cards';
 import type { PhilosophyCard } from '../types';
@@ -81,12 +82,13 @@ export function TodayPage() {
   }
 
   return (
-    <div className="mx-auto max-w-md px-4 pb-24 pt-10">
+    <div className="mx-auto max-w-5xl px-4 pb-24 pt-10 lg:px-8 lg:pb-16 lg:pt-12">
       <h1 className="font-serif text-2xl text-ink">今日一句</h1>
       {isUsingMockData && <p className="mt-1 text-xs text-ash">离线模式 · 显示本地内容</p>}
 
-      <div className="mt-5">
+      <div className="mt-5 grid gap-6 lg:grid-cols-[1fr_320px]">
         <PhilosophyCardView card={card} onNext={handleNext} isLoadingNext={isFetchingNext} />
+        <TodaySidePanel />
       </div>
     </div>
   );

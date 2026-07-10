@@ -3,6 +3,6 @@
 @tailwind utilities;
 
 body {
-	background-color: theme('colors.shell');
+	background-color: theme('colors.paper');
 	color: theme('colors.ink');
 }

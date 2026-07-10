@@ -7,7 +7,6 @@ export default {
 			colors: {
 				pine: '#5B7553', // 松柏绿 — primary
 				paper: '#FAF8F5', // 宣纸 — background
-				shell: '#EDEAE4', // backdrop behind the mobile-width app shell on wide viewports
 				ink: '#1A1A1A', // 墨 — text
 				ash: '#777777', // 烟灰 — secondary text
 				confucian: '#8B4513', // 儒

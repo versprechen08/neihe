@@ -1,12 +1,6 @@
-import { School } from '../types';
 import type { PhilosophyCard as PhilosophyCardModel } from '../types';
 import { SCHOOL_META } from '../types';
-
-const SCHOOL_BADGE_CLASS: Record<School, string> = {
-  [School.CONFUCIAN]: 'bg-confucian',
-  [School.DAOIST]: 'bg-daoist',
-  [School.BUDDHIST]: 'bg-buddhist',
-};
+import { SCHOOL_BADGE_CLASS } from '../lib/schoolStyles';
 
 interface PhilosophyCardProps {
   card: PhilosophyCardModel;

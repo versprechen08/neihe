@@ -1,0 +1,11 @@
+export interface NavTab {
+  to: string;
+  label: string;
+}
+
+export const NAV_TABS: NavTab[] = [
+  { to: '/today', label: '今日' },
+  { to: '/journal', label: '手记' },
+  { to: '/breathe', label: '呼吸' },
+  { to: '/journey', label: '旅程' },
+];
