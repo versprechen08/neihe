@@ -14,7 +14,7 @@ const TABS: Tab[] = [
 
 export function BottomNav() {
   return (
-    <nav className="fixed inset-x-0 bottom-0 flex border-t border-card-border bg-white">
+    <nav className="fixed bottom-0 left-1/2 flex w-full max-w-lg -translate-x-1/2 border-t border-card-border bg-white">
       {TABS.map((tab) => (
         <NavLink
           key={tab.to}
