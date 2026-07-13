@@ -9,6 +9,7 @@ export default {
 				paper: '#FAF8F5', // 宣纸 — background
 				ink: '#1A1A1A', // 墨 — text
 				ash: '#777777', // 烟灰 — secondary text
+				gold: '#B08D57', // 赤金 — premium accent for borders, dividers, hover states
 				confucian: '#8B4513', // 儒
 				daoist: '#2E5E4E', // 道
 				buddhist: '#6B4C8A', // 佛
