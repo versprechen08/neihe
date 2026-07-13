@@ -9,7 +9,7 @@ interface CardLibraryPanelProps {
 
 export function CardLibraryPanel({ onSelect, activeCardText }: CardLibraryPanelProps) {
   return (
-    <section className="rounded-2xl border border-card-border bg-white p-6 lg:p-8">
+    <section className="rounded-2xl border border-gold/20 bg-white p-6 lg:p-8">
       <h2 className="text-sm font-medium text-ink lg:text-base">全部卡片</h2>
       <p className="mt-1 text-xs text-ash lg:text-sm">点击任意一句，直接查看</p>
 
@@ -21,7 +21,7 @@ export function CardLibraryPanel({ onSelect, activeCardText }: CardLibraryPanelP
               <button
                 type="button"
                 onClick={() => onSelect({ id: `library-${index}`, ...seed })}
-                className={`flex w-full items-center gap-3 rounded-lg p-2 text-left transition-colors hover:bg-paper ${isActive ? 'bg-accent-bg' : ''}`}
+                className={`flex w-full items-center gap-3 rounded-lg border-l-2 p-2 text-left transition-all duration-300 ease-out hover:border-l-gold hover:bg-gold/5 ${isActive ? 'border-l-gold bg-accent-bg' : 'border-l-transparent'}`}
               >
                 <span
                   className={`h-2 w-2 shrink-0 rounded-full ${SCHOOL_BADGE_CLASS[seed.school]}`}

@@ -26,7 +26,7 @@ const UPCOMING_FEATURES: UpcomingFeature[] = [
 export function TodaySidePanel() {
   return (
     <aside className="flex flex-col gap-6 lg:gap-8">
-      <section className="rounded-2xl border border-card-border bg-white p-6 lg:p-8">
+      <section className="rounded-2xl border border-gold/20 bg-white p-6 lg:p-8">
         <h2 className="text-sm font-medium text-ink lg:text-base">三家智慧</h2>
         <ul className="mt-4 flex flex-col gap-3 lg:mt-6 lg:gap-5">
           {SCHOOL_ORDER.map((school) => (
@@ -43,14 +43,14 @@ export function TodaySidePanel() {
         </ul>
       </section>
 
-      <section className="rounded-2xl border border-card-border bg-white p-6 lg:p-8">
+      <section className="rounded-2xl border border-gold/20 bg-white p-6 lg:p-8">
         <h2 className="text-sm font-medium text-ink lg:text-base">更多功能</h2>
         <ul className="mt-4 flex flex-col gap-1 lg:mt-6">
           {UPCOMING_FEATURES.map((feature) => (
             <li key={feature.to}>
               <Link
                 to={feature.to}
-                className="block rounded-lg p-2 transition-colors hover:bg-paper lg:p-3"
+                className="block rounded-lg border-l-2 border-transparent p-2 transition-all duration-300 ease-out hover:border-l-gold hover:bg-gold/5 lg:p-3"
               >
                 <p className="text-sm text-ink lg:text-base">{feature.label}</p>
                 <p className="text-xs text-ash lg:text-sm">{feature.description}</p>
