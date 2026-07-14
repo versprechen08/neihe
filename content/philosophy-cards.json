@@ -1,0 +1,3719 @@
+[
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "君子求诸己，小人求诸人。",
+    "translation": "The grounded person looks within; the unsteady person looks to others.",
+    "reflection": "今天有什么事情，你试图从外部寻找答案，但其实答案在你自己身上？",
+    "themes": [
+      "自我认同",
+      "独立"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·公孙丑上》",
+    "originalText": "自反而缩，虽千万人，吾往矣。",
+    "translation": "If on self-examination I find I am right, I will go forward against thousands.",
+    "reflection": "有没有一件你确信是对的、但因为害怕他人的看法而迟迟没做的事？",
+    "themes": [
+      "勇气",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·尽心上》",
+    "originalText": "穷则独善其身，达则兼济天下。",
+    "translation": "In hardship, cultivate yourself; in prosperity, uplift the world.",
+    "reflection": "你现在处于“穷”还是“达”？此刻照顾好自己，是不是最重要的事？",
+    "themes": [
+      "自我关怀",
+      "边界"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·里仁》",
+    "originalText": "见贤思齐焉，见不贤而内自省也。",
+    "translation": "When you see a worthy person, aspire to be like them; when you see an unworthy one, look inward.",
+    "reflection": "最近有没有一个人让你不舒服？那种不舒服里面，有没有你自己的影子？",
+    "themes": [
+      "自省",
+      "关系"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子罕》",
+    "originalText": "逝者如斯夫，不舍昼夜。",
+    "translation": "Time flows on like this river, never pausing day or night.",
+    "reflection": "如果时间不会为任何人停留，此刻你最想用它做什么？",
+    "themes": [
+      "无常",
+      "当下"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《传习录》",
+    "originalText": "知是行之始，行是知之成。",
+    "translation": "Knowing is the beginning of doing; doing is the completion of knowing.",
+    "reflection": "有没有一件你“知道该做”但迟迟没行动的事？是什么在阻碍你？",
+    "themes": [
+      "行动",
+      "自律"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·学而》",
+    "originalText": "学而时习之，不亦说乎？有朋自远方来，不亦乐乎？",
+    "translation": "To learn and practise it often — is that not a joy? To have a friend visit from afar — is that not a delight?",
+    "reflection": "最近学到的东西里，有没有一样你还没找到机会真正用上？",
+    "themes": [
+      "成长",
+      "友谊"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·学而》",
+    "originalText": "吾日三省吾身：为人谋而不忠乎？与朋友交而不信乎？传不习乎？",
+    "translation": "Each day I examine myself on three points: have I been true in working for others, trustworthy with friends, and have I practised what I was taught?",
+    "reflection": "如果今晚也这样问自己三遍，你会得到什么答案？",
+    "themes": [
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·学而》",
+    "originalText": "巧言令色，鲜矣仁。",
+    "translation": "Fine words and a flattering manner are seldom signs of true goodness.",
+    "reflection": "你身边有没有说得漂亮却做不到的人？你自己有没有这样的时候？",
+    "themes": [
+      "自省",
+      "诚实"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·为政》",
+    "originalText": "温故而知新，可以为师矣。",
+    "translation": "By revisiting the old and discovering the new, one becomes fit to teach.",
+    "reflection": "有没有一段旧经历，如果你现在重新回想，会看出新的意义？",
+    "themes": [
+      "成长",
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·为政》",
+    "originalText": "学而不思则罔，思而不学则殆。",
+    "translation": "Learning without reflection is wasted effort; reflection without learning is dangerous.",
+    "reflection": "你最近是在埋头学，还是在空想？哪一边失衡了？",
+    "themes": [
+      "学习",
+      "平衡"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·为政》",
+    "originalText": "知之为知之，不知为不知，是知也。",
+    "translation": "To know what you know, and to know what you don't — that is true knowledge.",
+    "reflection": "有没有一件事，你其实不太懂，却一直装懂？",
+    "themes": [
+      "自知",
+      "诚实"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·为政》",
+    "originalText": "人而无信，不知其可也。",
+    "translation": "If a person lacks trustworthiness, I do not know what good they are.",
+    "reflection": "你对自己许下的承诺，兑现得怎么样？",
+    "themes": [
+      "自律",
+      "关系"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·里仁》",
+    "originalText": "朝闻道，夕死可矣。",
+    "translation": "If one hears the Way at dawn, one may die content by dusk.",
+    "reflection": "有没有一个真相，一旦明白了，你会觉得此生已经值得？",
+    "themes": [
+      "方向",
+      "意义"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·里仁》",
+    "originalText": "君子喻于义，小人喻于利。",
+    "translation": "The noble person is guided by what is right; the small-minded is guided only by profit.",
+    "reflection": "最近做决定的时候，你更常问“对不对”，还是“划不划算”？",
+    "themes": [
+      "自我认同",
+      "边界"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·里仁》",
+    "originalText": "德不孤，必有邻。",
+    "translation": "Virtue is never alone; it always finds companions.",
+    "reflection": "你身上好的品质，有没有把同频的人吸引过来？",
+    "themes": [
+      "关系",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·里仁》",
+    "originalText": "君子欲讷于言而敏于行。",
+    "translation": "The noble person wishes to be slow in speech and swift in action.",
+    "reflection": "最近有没有说得多、做得少的时候？",
+    "themes": [
+      "行动",
+      "自律"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·公冶长》",
+    "originalText": "敏而好学，不耻下问。",
+    "translation": "Quick-minded and fond of learning, not ashamed to ask those beneath oneself.",
+    "reflection": "有没有一个问题，你因为怕丢面子而没有开口问？",
+    "themes": [
+      "学习",
+      "谦逊"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·公冶长》",
+    "originalText": "三思而后行。",
+    "translation": "Think three times before you act.",
+    "reflection": "最近有没有一件事，你冲动地决定了，事后有点后悔？",
+    "themes": [
+      "行动",
+      "自律"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·雍也》",
+    "originalText": "质胜文则野，文胜质则史，文质彬彬，然后君子。",
+    "translation": "Too much substance without polish is coarse; too much polish without substance is hollow. Only balanced, the two make a noble person.",
+    "reflection": "你更容易偏向哪一边——太直接，还是太讲究形式？",
+    "themes": [
+      "平衡",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·雍也》",
+    "originalText": "知之者不如好之者，好之者不如乐之者。",
+    "translation": "Those who know it are not as good as those who love it; those who love it are not as good as those who delight in it.",
+    "reflection": "你现在做的事，是“知道该做”，还是真的“乐在其中”？",
+    "themes": [
+      "意义",
+      "成长"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·雍也》",
+    "originalText": "己欲立而立人，己欲达而达人。",
+    "translation": "Wishing to establish yourself, help others to establish themselves; wishing to succeed, help others to succeed.",
+    "reflection": "你的成功，能不能顺便带一个人一起往前走？",
+    "themes": [
+      "关系",
+      "慈悲"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·述而》",
+    "originalText": "不义而富且贵，于我如浮云。",
+    "translation": "Wealth and status gained through wrongdoing are, to me, like passing clouds.",
+    "reflection": "有没有一个机会，你是靠违背自己原则换来的？值得吗？",
+    "themes": [
+      "边界",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·述而》",
+    "originalText": "三人行，必有我师焉。",
+    "translation": "Among any three people walking together, there is surely one I can learn from.",
+    "reflection": "今天遇到的人里，有没有一个你可以学点什么的？",
+    "themes": [
+      "学习",
+      "谦逊"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·述而》",
+    "originalText": "君子坦荡荡，小人长戚戚。",
+    "translation": "The noble person is calm and open; the small-minded is forever anxious.",
+    "reflection": "你最近的焦虑，是不是因为藏着什么没说、没做完的事？",
+    "themes": [
+      "焦虑",
+      "坦然"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·泰伯》",
+    "originalText": "士不可以不弘毅，任重而道远。",
+    "translation": "One must be broad-minded and resolute, for the burden is heavy and the road is long.",
+    "reflection": "你正在扛的这件事，值不值得你这样坚持下去？",
+    "themes": [
+      "责任",
+      "坚持"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子罕》",
+    "originalText": "岁寒，然后知松柏之后凋也。",
+    "translation": "Only when the year turns cold do we know the pine and cypress are the last to wither.",
+    "reflection": "谁在你最难的时候，依然留在原地？",
+    "themes": [
+      "关系",
+      "坚持"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子罕》",
+    "originalText": "后生可畏，焉知来者之不如今？",
+    "translation": "The young are to be respected — how do you know those who come after will not surpass those of today?",
+    "reflection": "你有没有低估过一个人，或者低估过自己的未来？",
+    "themes": [
+      "谦逊",
+      "成长"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子罕》",
+    "originalText": "三军可夺帅也，匹夫不可夺志也。",
+    "translation": "An army's general can be taken from it, but even an ordinary person's will cannot be taken away.",
+    "reflection": "有没有什么外界的压力，让你差点放弃自己真正想要的？",
+    "themes": [
+      "意志",
+      "自我认同"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·颜渊》",
+    "originalText": "己所不欲，勿施于人。",
+    "translation": "Do not impose on others what you yourself do not want.",
+    "reflection": "最近有没有一件事，你对别人的要求，其实自己也做不到？",
+    "themes": [
+      "关系",
+      "同理心"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·颜渊》",
+    "originalText": "君子成人之美，不成人之恶。",
+    "translation": "The noble person helps others accomplish good, not helps them do wrong.",
+    "reflection": "你最近的一句话或一个举动，是在成全别人，还是在拆台？",
+    "themes": [
+      "关系",
+      "慈悲"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·颜渊》",
+    "originalText": "内省不疚，夫何忧何惧？",
+    "translation": "If, on self-examination, one finds no cause for guilt, what is there to worry or fear?",
+    "reflection": "你现在的不安，是因为真的做错了什么，还是只是想太多？",
+    "themes": [
+      "自省",
+      "焦虑"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·颜渊》",
+    "originalText": "四海之内，皆兄弟也。",
+    "translation": "Within the four seas, all are brothers.",
+    "reflection": "你有没有因为一点差异，把一个本可以亲近的人推得很远？",
+    "themes": [
+      "关系",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子路》",
+    "originalText": "其身正，不令而行；其身不正，虽令不从。",
+    "translation": "If one's own conduct is correct, others will follow without being ordered; if not, orders will not be obeyed.",
+    "reflection": "你希望别人怎么对待你，你自己先做到了吗？",
+    "themes": [
+      "自律",
+      "领导力"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子路》",
+    "originalText": "君子和而不同，小人同而不和。",
+    "translation": "The noble person seeks harmony, not sameness; the small-minded seeks sameness, not harmony.",
+    "reflection": "你能不能跟一个想法完全不同的人，依然好好相处？",
+    "themes": [
+      "关系",
+      "接纳"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子路》",
+    "originalText": "见小利则大事不成。",
+    "translation": "Chase small gains, and the great task will not be accomplished.",
+    "reflection": "有没有一个小便宜，正在让你偏离真正重要的目标？",
+    "themes": [
+      "方向",
+      "自律"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·宪问》",
+    "originalText": "古之学者为己，今之学者为人。",
+    "translation": "The learners of old studied for themselves; the learners of today study to impress others.",
+    "reflection": "你现在做的事，是为了自己真正想成为的人，还是为了别人的眼光？",
+    "themes": [
+      "自我认同",
+      "意义"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·宪问》",
+    "originalText": "君子耻其言而过其行。",
+    "translation": "The noble person is ashamed when their words outrun their actions.",
+    "reflection": "有没有一句你说出口的承诺，还没兑现？",
+    "themes": [
+      "自律",
+      "诚实"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·宪问》",
+    "originalText": "以直报怨，以德报德。",
+    "translation": "Repay resentment with straightforwardness, and kindness with kindness.",
+    "reflection": "面对让你委屈的人，你能不能诚实但不失分寸地回应？",
+    "themes": [
+      "关系",
+      "边界"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "人无远虑，必有近忧。",
+    "translation": "One who does not think far ahead will soon have troubles near at hand.",
+    "reflection": "有没有一件长远的事，你一直没花时间去规划？",
+    "themes": [
+      "方向",
+      "责任"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "小不忍则乱大谋。",
+    "translation": "Failing to endure a small matter can ruin a great plan.",
+    "reflection": "有没有一个当下的冲动，可能会毁掉你长期在努力的事？",
+    "themes": [
+      "自律",
+      "耐心"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "工欲善其事，必先利其器。",
+    "translation": "A craftsman who wants to do good work must first sharpen his tools.",
+    "reflection": "在真正开始一件事之前，你有没有先把该准备的准备好？",
+    "themes": [
+      "行动",
+      "专注"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "过而不改，是谓过矣。",
+    "translation": "To err and not correct it — this is truly an error.",
+    "reflection": "你有没有明知道错了，却因为面子而不去改？",
+    "themes": [
+      "自省",
+      "成长"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·季氏》",
+    "originalText": "益者三友：友直，友谅，友多闻。",
+    "translation": "Three kinds of friends bring benefit: the honest, the sincere, and the well-informed.",
+    "reflection": "你身边真正对你有益的朋友，具体是因为什么？",
+    "themes": [
+      "友谊",
+      "关系"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·季氏》",
+    "originalText": "生而知之者上也，学而知之者次也；困而学之，又其次也。",
+    "translation": "Those born knowing are the highest; those who learn to know come next; those who learn only when in difficulty come after that.",
+    "reflection": "你现在的处境，是不是正在逼你去学一样你原本会逃避的东西？",
+    "themes": [
+      "成长",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·阳货》",
+    "originalText": "性相近也，习相远也。",
+    "translation": "By nature people are close to one another; through habits they grow far apart.",
+    "reflection": "是什么样的习惯，把你带到了今天的自己？",
+    "themes": [
+      "自省",
+      "成长"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子张》",
+    "originalText": "日知其所亡，月无忘其所能，可谓好学也已矣。",
+    "translation": "To learn something new each day, and not forget what one already knows each month — this may be called a true love of learning.",
+    "reflection": "这个月，你学到的东西和你原本会的，都还在吗？",
+    "themes": [
+      "学习",
+      "自律"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子张》",
+    "originalText": "君子之过也，如日月之食焉：过也，人皆见之；更也，人皆仰之。",
+    "translation": "The noble person's faults are like an eclipse of the sun or moon — everyone sees them; but when corrected, everyone looks up to them.",
+    "reflection": "你有没有勇气，让别人看见你承认错误的样子？",
+    "themes": [
+      "自省",
+      "勇气"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·梁惠王上》",
+    "originalText": "老吾老，以及人之老；幼吾幼，以及人之幼。",
+    "translation": "Care for your own elders, and extend that care to others' elders; cherish your own children, and extend that to others' children.",
+    "reflection": "你对家人的照顾，能不能多分一点给身边同样需要的陌生人？",
+    "themes": [
+      "慈悲",
+      "家庭"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·公孙丑上》",
+    "originalText": "恻隐之心，仁之端也。",
+    "translation": "The feeling of compassion is the beginning of goodness.",
+    "reflection": "最近有没有一个瞬间，你心疼了一下？那是你善良的起点。",
+    "themes": [
+      "慈悲",
+      "情绪"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·公孙丑上》",
+    "originalText": "我善养吾浩然之气。",
+    "translation": "I am good at nurturing my vast, flood-like spirit.",
+    "reflection": "你有没有一件事，能让你从内心涌起一种坦荡、不怕的力量？",
+    "themes": [
+      "勇气",
+      "自我关怀"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·滕文公下》",
+    "originalText": "富贵不能淫，贫贱不能移，威武不能屈，此之谓大丈夫。",
+    "translation": "Not corrupted by wealth, not swayed by poverty, not bent by force — this is what makes a true person of integrity.",
+    "reflection": "在哪种处境下，你最容易迷失自己——富足、匮乏，还是压力之下？",
+    "themes": [
+      "自我认同",
+      "边界"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·离娄上》",
+    "originalText": "行有不得者，皆反求诸己。",
+    "translation": "Whenever things do not go as hoped, look inward and seek the cause in yourself.",
+    "reflection": "最近有件事没做成，你第一反应是怪别人，还是先看自己？",
+    "themes": [
+      "自省",
+      "责任"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·离娄下》",
+    "originalText": "大人者，不失其赤子之心者也。",
+    "translation": "A truly great person is one who never loses the heart of a newborn child.",
+    "reflection": "你身上还剩多少小时候那种没有防备的真诚？",
+    "themes": [
+      "初心",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·告子上》",
+    "originalText": "鱼，我所欲也；熊掌，亦我所欲也；二者不可得兼，舍鱼而取熊掌者也。",
+    "translation": "Fish is what I desire; bear's paw is also what I desire. If I cannot have both, I would give up the fish for the bear's paw.",
+    "reflection": "如果两件你都想要的事必须选一个，你现在心里的答案是什么？",
+    "themes": [
+      "选择",
+      "方向"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·告子上》",
+    "originalText": "生亦我所欲，义亦我所欲，二者不可得兼，舍生而取义者也。",
+    "translation": "Life is what I want, and righteousness is also what I want; if I cannot have both, I would give up life for righteousness.",
+    "reflection": "有没有什么原则，是你愿意为它付出很大代价也要守住的？",
+    "themes": [
+      "边界",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·告子下》",
+    "originalText": "天将降大任于是人也，必先苦其心志，劳其筋骨。",
+    "translation": "When heaven is about to give a great task to someone, it first tests their resolve and wearies their body.",
+    "reflection": "你正在经历的辛苦，会不会正是在为你准备一件更大的事？",
+    "themes": [
+      "坚持",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·尽心上》",
+    "originalText": "万物皆备于我矣，反身而诚，乐莫大焉。",
+    "translation": "All things are already complete within me; to turn inward and be sincere brings the greatest joy.",
+    "reflection": "你有没有试过，不向外求，只是诚实地面对自己？",
+    "themes": [
+      "自省",
+      "意义"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·尽心上》",
+    "originalText": "知其性，则知天矣。",
+    "translation": "To know one's own nature is to understand the way of heaven.",
+    "reflection": "你有没有花时间真正了解过，自己是一个什么样的人？",
+    "themes": [
+      "自知"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《大学》",
+    "originalText": "苟日新，日日新，又日新。",
+    "translation": "If you can renew yourself one day, do so each day, and keep on doing so.",
+    "reflection": "今天，你能为自己做一个小小的、新的改变吗？",
+    "themes": [
+      "成长",
+      "自律"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《大学》",
+    "originalText": "欲修其身者，先正其心。",
+    "translation": "Those who wish to cultivate themselves must first set their hearts right.",
+    "reflection": "你现在做的这些改变，是从心里真正想要，还是只是表面功夫？",
+    "themes": [
+      "自省",
+      "自律"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《大学》",
+    "originalText": "君子必慎其独也。",
+    "translation": "The noble person is especially careful when alone.",
+    "reflection": "没有人看着的时候，你还是不是同一个你？",
+    "themes": [
+      "自律",
+      "诚实"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《中庸》",
+    "originalText": "凡事豫则立，不豫则废。",
+    "translation": "In all things, preparation leads to success; lack of preparation leads to failure.",
+    "reflection": "有没有一件即将到来的事，你其实还没准备好？",
+    "themes": [
+      "行动",
+      "自律"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《中庸》",
+    "originalText": "博学之，审问之，慎思之，明辨之，笃行之。",
+    "translation": "Learn broadly, question thoroughly, think carefully, discern clearly, and act earnestly.",
+    "reflection": "在这五步里，你通常在哪一步就停下了？",
+    "themes": [
+      "学习",
+      "行动"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《中庸》",
+    "originalText": "诚者，天之道也；诚之者，人之道也。",
+    "translation": "Sincerity is the way of heaven; striving for sincerity is the way of humanity.",
+    "reflection": "今天有没有一刻，你对自己不太诚实？",
+    "themes": [
+      "诚实",
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《荀子·劝学》",
+    "originalText": "锲而不舍，金石可镂。",
+    "translation": "Carve without stopping, and even metal and stone can be engraved.",
+    "reflection": "有没有一件事，只要你不放弃，就一定能慢慢磨出来？",
+    "themes": [
+      "坚持",
+      "自律"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《荀子·劝学》",
+    "originalText": "青，取之于蓝，而青于蓝。",
+    "translation": "Blue dye is extracted from the indigo plant, yet it is bluer than the plant itself.",
+    "reflection": "你有没有已经超越了曾经教过你的人或事？",
+    "themes": [
+      "成长"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《荀子·劝学》",
+    "originalText": "不积跬步，无以至千里；不积小流，无以成江海。",
+    "translation": "Without accumulating small steps, one cannot travel a thousand miles; without gathering small streams, one cannot form rivers and seas.",
+    "reflection": "你今天愿不愿意，只走一小步就好？",
+    "themes": [
+      "行动",
+      "耐心"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《荀子·修身》",
+    "originalText": "见善，修然必以自存也；见不善，愀然必以自省也。",
+    "translation": "On seeing good, examine yourself to see if you possess it; on seeing bad, reflect anxiously to see if you share it.",
+    "reflection": "今天有没有一个好榜样或坏例子，值得你对照自己？",
+    "themes": [
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《荀子·修身》",
+    "originalText": "无冥冥之志者，无昭昭之明。",
+    "translation": "Without quiet, unseen dedication, there is no shining clarity.",
+    "reflection": "你现在默默做的事，有没有人看见并不重要，是吗？",
+    "themes": [
+      "坚持",
+      "耐心"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《传习录》",
+    "originalText": "此心光明，亦复何言。",
+    "translation": "This heart is bright and clear — what more is there to say?",
+    "reflection": "如果此刻问心无愧，你还需要向谁解释什么吗？",
+    "themes": [
+      "坦然",
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《传习录》",
+    "originalText": "破山中贼易，破心中贼难。",
+    "translation": "It is easy to defeat the bandits in the mountains; it is hard to defeat the bandit within one's own heart.",
+    "reflection": "你心里那个最难对付的“贼”，其实是什么？",
+    "themes": [
+      "自省",
+      "自律"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《传习录》",
+    "originalText": "无善无恶心之体，有善有恶意之动。",
+    "translation": "The mind's original substance is beyond good and evil; good and evil arise only when intention stirs.",
+    "reflection": "你此刻的评判，是从平静的心生出的，还是从一时的情绪？",
+    "themes": [
+      "觉察",
+      "情绪"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《传习录》",
+    "originalText": "知行合一。",
+    "translation": "Knowledge and action are one.",
+    "reflection": "你知道的那些道理，有没有真正活成你的一部分？",
+    "themes": [
+      "行动",
+      "自我认同"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "己欲立而立人，己欲达而达人，可谓仁之方也已。",
+    "translation": "Wishing to stand, help others to stand; wishing to succeed, help others to succeed — this may be called the method of goodness.",
+    "reflection": "你手上的资源或经验，能不能顺手分给正在起步的人？",
+    "themes": [
+      "慈悲",
+      "关系"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "君子谋道不谋食。",
+    "translation": "The noble person is concerned with the Way, not merely with a livelihood.",
+    "reflection": "你现在忙碌的事，是在追求意义，还是只是在追求安全感？",
+    "themes": [
+      "意义",
+      "方向"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "当仁，不让于师。",
+    "translation": "When it comes to doing what is right, do not even yield to your teacher.",
+    "reflection": "有没有一件对的事，你因为对方是权威而不敢坚持？",
+    "themes": [
+      "勇气",
+      "边界"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·先进》",
+    "originalText": "未知生，焉知死。",
+    "translation": "Not yet understanding life, how can one understand death?",
+    "reflection": "与其担心遥远的未知，你能不能先把眼前的生活过好？",
+    "themes": [
+      "当下",
+      "焦虑"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·先进》",
+    "originalText": "过犹不及。",
+    "translation": "Going too far is as bad as not going far enough.",
+    "reflection": "有没有一件本来是好事，被你做得太用力，反而变了味？",
+    "themes": [
+      "平衡"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子路》",
+    "originalText": "欲速则不达。",
+    "translation": "Haste does not bring success.",
+    "reflection": "有没有一件事，你越急，反而越做不好？",
+    "themes": [
+      "耐心",
+      "焦虑"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "躬自厚而薄责于人，则远怨矣。",
+    "translation": "Be strict with yourself and lenient with others, and resentment will stay far away.",
+    "reflection": "你对别人的标准，跟对自己的标准，是不是不太一样？",
+    "themes": [
+      "关系",
+      "宽容"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·雍也》",
+    "originalText": "仁者先难而后获。",
+    "translation": "The person of goodness takes on the difficult part first, and lets the reward come after.",
+    "reflection": "你有没有习惯性地想先拿到好处，再考虑付出？",
+    "themes": [
+      "责任",
+      "行动"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·雍也》",
+    "originalText": "仁者乐山，知者乐水。",
+    "translation": "The good delight in mountains; the wise delight in water.",
+    "reflection": "你更向往山的沉稳，还是水的灵动？也许两者你都需要一点。",
+    "themes": [
+      "自我认同",
+      "平衡"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·述而》",
+    "originalText": "发愤忘食，乐以忘忧，不知老之将至。",
+    "translation": "So absorbed in effort that one forgets to eat, so joyful that one forgets one's worries, unaware that old age is approaching.",
+    "reflection": "有没有一件事，你投入到忘记时间的存在？",
+    "themes": [
+      "意义",
+      "专注"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·述而》",
+    "originalText": "德之不修，学之不讲，闻义不能徙，不善不能改，是吾忧也。",
+    "translation": "Failing to cultivate virtue, failing to discuss learning, hearing what is right but not moving toward it, having faults but not correcting them — these are my worries.",
+    "reflection": "这四件事里，哪一件最戳中你现在的状态？",
+    "themes": [
+      "自省",
+      "自律"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·泰伯》",
+    "originalText": "任重而道远，仁以为己任，不亦重乎？死而后已，不亦远乎？",
+    "translation": "The burden is heavy and the road is long. To take goodness as one's own responsibility — is that not heavy? Only ending with death — is that not far?",
+    "reflection": "你愿意为之坚持一生的事情，是什么？",
+    "themes": [
+      "意义",
+      "坚持"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子罕》",
+    "originalText": "吾未见好德如好色者也。",
+    "translation": "I have yet to see one who loves virtue as much as one loves beauty.",
+    "reflection": "你对什么东西的渴望，超过了对做正确事情的渴望？",
+    "themes": [
+      "自省",
+      "欲望"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子张》",
+    "originalText": "仕而优则学，学而优则仕。",
+    "translation": "When one excels in service, one should keep learning; when one excels in learning, one may take up service.",
+    "reflection": "你现在的角色，还留不留时间给持续的学习？",
+    "themes": [
+      "成长",
+      "平衡"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·公孙丑上》",
+    "originalText": "有不虞之誉，有求全之毁。",
+    "translation": "There is praise one does not expect, and there is criticism aimed at demanding perfection.",
+    "reflection": "别人对你的评价，你分得清哪些值得在意，哪些不必往心里去吗？",
+    "themes": [
+      "自我认同",
+      "边界"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·离娄上》",
+    "originalText": "爱人不亲，反其仁；治人不治，反其智；礼人不答，反其敬。",
+    "translation": "If your love is not returned, examine your own kindness; if your governing fails, examine your own wisdom; if your courtesy is not answered, examine your own respect.",
+    "reflection": "一段没有回应的关系里，你愿不愿意先看看自己给出的方式？",
+    "themes": [
+      "关系",
+      "自省"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·尽心下》",
+    "originalText": "民为贵，社稷次之，君为轻。",
+    "translation": "The people are the most precious; the state comes next; the ruler is the least important.",
+    "reflection": "在你的生活里，什么才是真正最该被放在优先位置的？",
+    "themes": [
+      "责任",
+      "方向"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·尽心下》",
+    "originalText": "养心莫善于寡欲。",
+    "translation": "For nourishing the heart, nothing is better than having few desires.",
+    "reflection": "如果你的欲望能少一半，你的心会不会轻松很多？",
+    "themes": [
+      "知足",
+      "自我关怀"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·颜渊》",
+    "originalText": "非礼勿视，非礼勿听，非礼勿言，非礼勿动。",
+    "translation": "Look not, listen not, speak not, and move not, unless it is in accordance with propriety.",
+    "reflection": "你能不能对自己的言行，多一点点自觉的选择？",
+    "themes": [
+      "自律",
+      "觉察"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·卫灵公》",
+    "originalText": "人能弘道，非道弘人。",
+    "translation": "It is the person who broadens the Way; it is not the Way that broadens the person.",
+    "reflection": "你信的那些道理，是靠你活出来的，还是只停留在嘴上？",
+    "themes": [
+      "行动",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《中庸》",
+    "originalText": "致中和，天地位焉，万物育焉。",
+    "translation": "When balance and harmony are attained, heaven and earth find their proper places, and all things flourish.",
+    "reflection": "你的生活里，哪些地方需要重新找回平衡？",
+    "themes": [
+      "平衡",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第一章》",
+    "originalText": "道可道，非常道；名可名，非常名。",
+    "translation": "The Way that can be spoken of is not the eternal Way; the name that can be named is not the eternal name.",
+    "reflection": "有没有一种感受，你一开口解释，就已经失去了它本来的样子？",
+    "themes": [
+      "觉察",
+      "语言"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二章》",
+    "originalText": "天下皆知美之为美，斯恶已。",
+    "translation": "When everyone knows beauty as beauty, ugliness has already arisen.",
+    "reflection": "你对“好”的标准，是不是也悄悄制造了对“不好”的评判？",
+    "themes": [
+      "接纳",
+      "觉察"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二章》",
+    "originalText": "生而不有，为而不恃，功成而弗居。",
+    "translation": "Give life without possessing, act without holding on, accomplish without claiming credit.",
+    "reflection": "你能不能为一件事付出很多，却不执着于它一定要属于你？",
+    "themes": [
+      "放下",
+      "不争"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第五章》",
+    "originalText": "天地不仁，以万物为刍狗。",
+    "translation": "Heaven and earth are impartial; they treat all things as straw dogs, without favour.",
+    "reflection": "世界并没有针对你——它对谁都一样公平地运行着，这会不会让你松一口气？",
+    "themes": [
+      "接纳",
+      "无常"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第七章》",
+    "originalText": "天长地久。天地所以能长且久者，以其不自生，故能长生。",
+    "translation": "Heaven and earth endure. They endure because they do not live for themselves.",
+    "reflection": "你有没有发现，太用力为自己活的时候，反而活得更累？",
+    "themes": [
+      "无我",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第九章》",
+    "originalText": "持而盈之，不如其已；揣而锐之，不可长保。",
+    "translation": "Better to stop than to fill a cup to overflowing; a blade honed too sharp cannot stay sharp for long.",
+    "reflection": "有没有什么事，你已经做得够好了，却还想再多抓一点？",
+    "themes": [
+      "知足",
+      "平衡"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第九章》",
+    "originalText": "功遂身退，天之道。",
+    "translation": "When the work is done, step back — this is the way of heaven.",
+    "reflection": "有没有一件事，你完成之后，其实可以放手，却还紧紧抓着不放？",
+    "themes": [
+      "放下",
+      "边界"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十一章》",
+    "originalText": "三十辐共一毂，当其无，有车之用。",
+    "translation": "Thirty spokes share one hub; it is the emptiness at the centre that makes the wheel useful.",
+    "reflection": "你的生活里，有没有留一点“空”，让新的东西可以进来？",
+    "themes": [
+      "空性",
+      "平衡"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十二章》",
+    "originalText": "五色令人目盲，五音令人耳聋，五味令人口爽。",
+    "translation": "Too many colours blind the eye; too much sound deafens the ear; too many flavours dull the palate.",
+    "reflection": "最近有没有觉得信息太多、选择太多，反而让你感觉不到什么了？",
+    "themes": [
+      "简单",
+      "觉察"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十三章》",
+    "originalText": "宠辱若惊，贵大患若身。",
+    "translation": "Favour and disgrace both bring alarm; honour and misfortune are both felt as deeply as one's own body.",
+    "reflection": "别人的一句夸奖或一句批评，有没有让你的情绪坐了一整天过山车？",
+    "themes": [
+      "情绪",
+      "边界"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十五章》",
+    "originalText": "孰能浊以静之徐清？孰能安以动之徐生？",
+    "translation": "Who can make the muddy water clear by stillness? Who can bring the still to life through gentle movement?",
+    "reflection": "当你心里浑浊的时候，你需要的也许不是用力搅动，而是耐心等它静下来。",
+    "themes": [
+      "耐心",
+      "情绪"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十六章》",
+    "originalText": "致虚极，守静笃。万物并作，吾以观复。",
+    "translation": "Attain utter emptiness, hold fast to stillness. As all things arise together, I watch them return.",
+    "reflection": "你有没有试过，什么都不做，只是安静地观察自己的念头来来去去？",
+    "themes": [
+      "觉察",
+      "平静"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十六章》",
+    "originalText": "夫物芸芸，各复归其根。",
+    "translation": "All things flourish and multiply, yet each returns again to its root.",
+    "reflection": "不管你现在多忙碌、多向外奔波，有没有留一条回到自己内心的路？",
+    "themes": [
+      "自省",
+      "根基"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十七章》",
+    "originalText": "太上，下知有之。",
+    "translation": "Of the highest kind of leader, people are only aware that they exist.",
+    "reflection": "真正的影响力，是不是不需要时时刻刻被看见？",
+    "themes": [
+      "领导力",
+      "不争"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十九章》",
+    "originalText": "见素抱朴，少私寡欲。",
+    "translation": "Show simplicity, embrace the uncarved block; lessen self-interest, reduce desires.",
+    "reflection": "如果把最近的欲望砍掉一半，你的生活会不会简单很多？",
+    "themes": [
+      "简单",
+      "知足"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二十章》",
+    "originalText": "众人熙熙，如享太牢，如春登台；我独泊兮，其未兆。",
+    "translation": "Others are merry, as if feasting or climbing a spring terrace; I alone remain quiet, showing no sign.",
+    "reflection": "当所有人都在追逐同一件热闹的事时，你敢不敢安静地做自己？",
+    "themes": [
+      "独立",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二十二章》",
+    "originalText": "夫唯不争，故天下莫能与之争。",
+    "translation": "Precisely because one does not contend, no one under heaven can contend with them.",
+    "reflection": "有没有一场“争”，你退一步之后，反而赢得了更多？",
+    "themes": [
+      "不争",
+      "智慧"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二十三章》",
+    "originalText": "飘风不终朝，骤雨不终日。",
+    "translation": "A whirlwind does not last all morning; a downpour does not last all day.",
+    "reflection": "你现在经历的这场风暴，其实也不会永远持续下去。",
+    "themes": [
+      "无常",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二十四章》",
+    "originalText": "自见者不明，自是者不彰。",
+    "translation": "Those who show themselves off are not enlightened; those who justify themselves are not distinguished.",
+    "reflection": "你最近是不是花了很多力气，想证明自己是对的？",
+    "themes": [
+      "谦逊",
+      "自省"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二十五章》",
+    "originalText": "人法地，地法天，天法道，道法自然。",
+    "translation": "Humanity follows earth, earth follows heaven, heaven follows the Way, and the Way follows what is natural.",
+    "reflection": "你有没有想过，你真正需要顺应的，是什么样的节奏？",
+    "themes": [
+      "自然",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二十六章》",
+    "originalText": "重为轻根，静为躁君。",
+    "translation": "Gravity is the root of lightness; stillness is the master of restlessness.",
+    "reflection": "你心浮气躁的时候，有没有一个更沉稳的自己在等着你回去？",
+    "themes": [
+      "平静",
+      "根基"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二十七章》",
+    "originalText": "善行无辙迹，善言无瑕谪。",
+    "translation": "Good travelling leaves no tracks; good speech leaves no flaws to criticise.",
+    "reflection": "你有没有见过那种不留痕迹却影响深远的付出？",
+    "themes": [
+      "行动",
+      "谦逊"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二十八章》",
+    "originalText": "知其雄，守其雌，为天下溪。",
+    "translation": "Know the strength of the masculine, yet hold to the gentleness of the feminine, and become the valley stream of the world.",
+    "reflection": "你能不能在有实力的时候，依然选择柔和？",
+    "themes": [
+      "柔韧",
+      "谦逊"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十章》",
+    "originalText": "物壮则老，是谓不道，不道早已。",
+    "translation": "Things that grow too forceful will age quickly; this is contrary to the Way, and what is contrary to the Way soon ends.",
+    "reflection": "有没有一件事你在用蛮力硬撑，反而更快耗尽了它？",
+    "themes": [
+      "平衡",
+      "自然"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十三章》",
+    "originalText": "胜人者有力，自胜者强。",
+    "translation": "One who conquers others has strength; one who conquers themselves is truly powerful.",
+    "reflection": "比起赢过别人，你有没有更在意，能不能赢过昨天的自己？",
+    "themes": [
+      "自律",
+      "成长"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十三章》",
+    "originalText": "知足者富，强行者有志。",
+    "translation": "One who knows contentment is rich; one who perseveres has purpose.",
+    "reflection": "你现在拥有的，是不是已经足够让你感到富足？",
+    "themes": [
+      "知足"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十六章》",
+    "originalText": "将欲歙之，必固张之；将欲弱之，必固强之。",
+    "translation": "What is to be contracted must first be expanded; what is to be weakened must first be strengthened.",
+    "reflection": "事情走到极致的时候，往往就是它开始反转的时候。",
+    "themes": [
+      "无常",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十六章》",
+    "originalText": "柔弱胜刚强。",
+    "translation": "The soft and yielding overcomes the hard and unyielding.",
+    "reflection": "有没有一次，你用柔软的方式解决了一件本以为需要强硬对付的事？",
+    "themes": [
+      "柔韧"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十七章》",
+    "originalText": "道常无为而无不为。",
+    "translation": "The Way never acts, yet nothing is left undone.",
+    "reflection": "有没有一件事，你越是不刻意用力，反而进展得越顺利？",
+    "themes": [
+      "无为",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十八章》",
+    "originalText": "上德不德，是以有德。",
+    "translation": "The highest virtue does not think of itself as virtuous — that is why it truly has virtue.",
+    "reflection": "你做好事的时候，是不是也在暗暗期待被看见、被称赞？",
+    "themes": [
+      "谦逊",
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十一章》",
+    "originalText": "大器晚成，大音希声，大象无形。",
+    "translation": "Great talent matures late; great music has the rarest sound; the greatest image has no form.",
+    "reflection": "如果你现在还没有“成”，会不会只是因为你的“器”本来就比较大？",
+    "themes": [
+      "耐心",
+      "自我认同"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十二章》",
+    "originalText": "道生一，一生二，二生三，三生万物。",
+    "translation": "The Way gives birth to one; one gives birth to two; two gives birth to three; three gives birth to all things.",
+    "reflection": "你现在的处境，是从一个更早、更简单的起点，一步步长出来的。",
+    "themes": [
+      "成长",
+      "无常"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十三章》",
+    "originalText": "天下之至柔，驰骋天下之至坚。",
+    "translation": "The softest thing in the world overtakes the hardest thing in the world.",
+    "reflection": "面对一个很硬的难题，你能不能试试用柔软的方式去化开它？",
+    "themes": [
+      "柔韧",
+      "智慧"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十四章》",
+    "originalText": "知足不辱，知止不殆，可以长久。",
+    "translation": "Know contentment and you will not be disgraced; know when to stop and you will not be endangered.",
+    "reflection": "有没有一件事，你该停下来了，却还没停？",
+    "themes": [
+      "知足",
+      "边界"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十五章》",
+    "originalText": "大成若缺，其用不弊。大盈若冲，其用不穷。",
+    "translation": "Great accomplishment seems incomplete, yet its usefulness never fails; great fullness seems empty, yet its usefulness never ends.",
+    "reflection": "你能不能允许自己现在这个“不完美”的状态，其实已经足够好？",
+    "themes": [
+      "接纳",
+      "知足"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十五章》",
+    "originalText": "躁胜寒，静胜热，清静为天下正。",
+    "translation": "Movement overcomes cold, stillness overcomes heat; clarity and stillness set the world right.",
+    "reflection": "面对纷乱，你能不能先让自己安静下来，而不是更急躁地应对？",
+    "themes": [
+      "平静"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十六章》",
+    "originalText": "祸莫大于不知足，咎莫大于欲得。",
+    "translation": "No calamity is greater than not knowing contentment; no fault is greater than the desire to acquire.",
+    "reflection": "你现在的烦恼，有多少其实来自“还想要更多”？",
+    "themes": [
+      "知足",
+      "欲望"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十七章》",
+    "originalText": "不出户，知天下；不窥牖，见天道。",
+    "translation": "Without going out the door, one may know the world; without peering through the window, one may see the way of heaven.",
+    "reflection": "有没有一些答案，其实不需要向外奔波寻找，只需要向内安静地看？",
+    "themes": [
+      "觉察",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十八章》",
+    "originalText": "为学日益，为道日损。",
+    "translation": "In pursuit of learning, one gains something every day; in pursuit of the Way, one loses something every day.",
+    "reflection": "你现在最需要的，是学多一点，还是放下多一点？",
+    "themes": [
+      "放下",
+      "简单"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第四十九章》",
+    "originalText": "圣人无常心，以百姓心为心。",
+    "translation": "The sage has no fixed mind of their own; they take the minds of the people as their own.",
+    "reflection": "你能不能放下自己固定的立场，试着从对方的角度看一次？",
+    "themes": [
+      "同理心",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第五十二章》",
+    "originalText": "见小曰明，守柔曰强。",
+    "translation": "To perceive the small is called clarity; to hold to gentleness is called strength.",
+    "reflection": "生活里那些不起眼的小细节，你有没有留意到它们其实很重要？",
+    "themes": [
+      "觉察",
+      "柔韧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第五十五章》",
+    "originalText": "含德之厚，比于赤子。",
+    "translation": "One of deep and abundant virtue is like a newborn child.",
+    "reflection": "你还能不能像小时候那样，毫无防备地相信这个世界？",
+    "themes": [
+      "初心"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第五十六章》",
+    "originalText": "知者不言，言者不知。",
+    "translation": "Those who know do not speak; those who speak do not know.",
+    "reflection": "有没有一种体会，你越想解释清楚，反而越说不明白？",
+    "themes": [
+      "觉察",
+      "谦逊"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第五十八章》",
+    "originalText": "祸兮福之所倚，福兮祸之所伏。",
+    "translation": "Misfortune is what fortune leans on; fortune is where misfortune hides.",
+    "reflection": "回头看，你曾经以为的坏事，有没有后来变成了好事的起点？",
+    "themes": [
+      "无常",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第六十三章》",
+    "originalText": "天下难事，必作于易；天下大事，必作于细。",
+    "translation": "Difficult things in the world must be handled while they are easy; great things in the world must be handled while they are small.",
+    "reflection": "眼前这个庞大的目标，有没有一个很小的、现在就能做的第一步？",
+    "themes": [
+      "行动",
+      "耐心"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第六十四章》",
+    "originalText": "千里之行，始于足下。",
+    "translation": "A journey of a thousand miles begins with a single step.",
+    "reflection": "今天，你愿不愿意先迈出那一小步就好？",
+    "themes": [
+      "行动",
+      "耐心"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第六十四章》",
+    "originalText": "合抱之木，生于毫末；九层之台，起于累土。",
+    "translation": "A tree that fills one's embrace grows from a tiny sprout; a nine-storey tower rises from a heap of earth.",
+    "reflection": "你现在做的这一点点小事，将来会长成什么样子？",
+    "themes": [
+      "耐心",
+      "成长"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第六十四章》",
+    "originalText": "民之从事，常于几成而败之，慎终如始，则无败事。",
+    "translation": "People often fail just as they are about to succeed; be as careful at the end as at the beginning, and nothing will fail.",
+    "reflection": "有没有一件快完成的事，你现在有点松懈了？",
+    "themes": [
+      "自律",
+      "坚持"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第六十六章》",
+    "originalText": "江海所以能为百谷王者，以其善下之。",
+    "translation": "Rivers and seas can be kings of all valley streams because they are good at staying low.",
+    "reflection": "你愿不愿意在关系里，偶尔放低姿态而不是争高低？",
+    "themes": [
+      "谦逊",
+      "关系"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第六十七章》",
+    "originalText": "我有三宝，持而保之：一曰慈，二曰俭，三曰不敢为天下先。",
+    "translation": "I have three treasures which I hold and keep: the first is compassion, the second is frugality, the third is not daring to be first in the world.",
+    "reflection": "慈悲、节制、不争先——这三样里，你现在最需要哪一样？",
+    "themes": [
+      "慈悲",
+      "简单"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第六十八章》",
+    "originalText": "不争之德，是谓用人之力。",
+    "translation": "The virtue of not contending is called making use of the strength of others.",
+    "reflection": "你能不能不靠争抢，而是靠协作，把事情做成？",
+    "themes": [
+      "不争",
+      "关系"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第七十章》",
+    "originalText": "吾言甚易知，甚易行，天下莫能知，莫能行。",
+    "translation": "My words are very easy to understand, very easy to practise, yet no one under heaven can understand or practise them.",
+    "reflection": "有没有一个道理，你早就懂了，却一直没有真正去做？",
+    "themes": [
+      "行动",
+      "自知"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第七十一章》",
+    "originalText": "知不知，上；不知知，病。",
+    "translation": "To know that you do not know is best; to not know yet think you know is a flaw.",
+    "reflection": "你有没有在某件事上，明明不懂却装出一副很懂的样子？",
+    "themes": [
+      "自知",
+      "谦逊"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第七十三章》",
+    "originalText": "天网恢恢，疏而不失。",
+    "translation": "Heaven's net is vast; its mesh is wide, yet nothing slips through.",
+    "reflection": "你相不相信，长期来看，付出和结果终究是对应的？",
+    "themes": [
+      "因果",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第七十六章》",
+    "originalText": "人之生也柔弱，其死也坚强。",
+    "translation": "In life we are soft and flexible; in death we become stiff and rigid.",
+    "reflection": "你最近有没有在某件事上变得僵硬？能不能试着柔软一点？",
+    "themes": [
+      "放下",
+      "柔韧"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第七十七章》",
+    "originalText": "天之道，损有余而补不足。",
+    "translation": "The way of heaven is to take from what has excess and give to what lacks.",
+    "reflection": "你身上过多的东西，能不能分一些给正缺乏的地方——不管是给别人，还是给自己？",
+    "themes": [
+      "平衡",
+      "慈悲"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第七十八章》",
+    "originalText": "天下莫柔弱于水，而攻坚强者莫之能胜。",
+    "translation": "Nothing in the world is softer than water, yet nothing surpasses it in overcoming the hard.",
+    "reflection": "持续的温和，往往比一时的强硬更有力量。",
+    "themes": [
+      "柔韧",
+      "坚持"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第八十一章》",
+    "originalText": "信言不美，美言不信。",
+    "translation": "Trustworthy words are not beautiful; beautiful words are not trustworthy.",
+    "reflection": "你更容易被说得好听的话打动，还是能分辨出朴实但真实的话？",
+    "themes": [
+      "诚实",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第八十一章》",
+    "originalText": "圣人不积，既以为人己愈有，既以与人己愈多。",
+    "translation": "The sage does not hoard; the more they give to others, the more they themselves have.",
+    "reflection": "有没有一次，你给出去的东西，反而让你觉得自己更富足？",
+    "themes": [
+      "慈悲",
+      "知足"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第八十一章》",
+    "originalText": "天之道，利而不害；圣人之道，为而不争。",
+    "translation": "The way of heaven benefits and does not harm; the way of the sage acts and does not contend.",
+    "reflection": "你能不能做成一件事，却不需要打败任何人？",
+    "themes": [
+      "不争"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·逍遥游》",
+    "originalText": "北冥有鱼，其名为鲲，化而为鸟，其名为鹏。",
+    "translation": "In the northern ocean there is a fish called Kun; it transforms into a bird called Peng.",
+    "reflection": "你现在的样子，会不会也只是你正在蜕变过程中的一个阶段？",
+    "themes": [
+      "成长",
+      "变化"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·逍遥游》",
+    "originalText": "小知不及大知，小年不及大年。",
+    "translation": "Small understanding cannot match great understanding; a short life cannot match a long one.",
+    "reflection": "你现在纠结的事，放到更长的时间尺度里看，还那么重要吗？",
+    "themes": [
+      "无常",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·逍遥游》",
+    "originalText": "举世而誉之而不加劝，举世而非之而不加沮。",
+    "translation": "Even if the whole world praised him, he would not be encouraged further; even if the whole world criticised him, he would not be more discouraged.",
+    "reflection": "别人的赞美或批评，能不能少影响你一点？",
+    "themes": [
+      "自我认同",
+      "边界"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·齐物论》",
+    "originalText": "天地与我并生，而万物与我为一。",
+    "translation": "Heaven and earth were born together with me, and all things are one with me.",
+    "reflection": "你能不能感觉到，自己其实并不是孤立地存在着？",
+    "themes": [
+      "觉察",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·齐物论》",
+    "originalText": "方生方死，方死方生。",
+    "translation": "At the moment of birth there is already death; at the moment of death there is already birth.",
+    "reflection": "有没有一个结束，其实同时也是另一件事的开始？",
+    "themes": [
+      "无常",
+      "变化"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·养生主》",
+    "originalText": "吾生也有涯，而知也无涯。",
+    "translation": "My life has a limit, but knowledge has none.",
+    "reflection": "你能不能允许自己，不需要什么都懂？",
+    "themes": [
+      "接纳",
+      "边界"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·养生主》",
+    "originalText": "庖丁解牛，依乎天理，因其固然。",
+    "translation": "Cook Ding cutting the ox followed the natural grain, working with what was already there.",
+    "reflection": "你现在面对的难题，能不能顺着它本来的纹理去化解，而不是硬碰硬？",
+    "themes": [
+      "智慧",
+      "自然"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·养生主》",
+    "originalText": "安时而处顺，哀乐不能入也。",
+    "translation": "At peace with the times and going along with what comes, sorrow and joy cannot enter.",
+    "reflection": "你能不能安心地待在此刻的处境里，不急着抗拒它？",
+    "themes": [
+      "接纳",
+      "平静"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·人间世》",
+    "originalText": "山木自寇也，膏火自煎也。",
+    "translation": "The mountain tree invites its own felling; the oil in the lamp consumes itself.",
+    "reflection": "你身上那些被别人看重的\"用处\"，会不会也正在耗尽你自己？",
+    "themes": [
+      "边界",
+      "自我关怀"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·人间世》",
+    "originalText": "虚室生白，吉祥止止。",
+    "translation": "In an empty room, light is born; good fortune dwells where there is stillness.",
+    "reflection": "你有没有留一点空白的时间，什么都不做，只是让自己安静下来？",
+    "themes": [
+      "空性",
+      "平静"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·德充符》",
+    "originalText": "不知其所以然而然，命也。",
+    "translation": "Happening without knowing why it happens — this is what is called destiny.",
+    "reflection": "有些事情的发生，你能不能不去追问为什么，只是接受它？",
+    "themes": [
+      "接纳",
+      "无常"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·大宗师》",
+    "originalText": "泉涸，鱼相与处于陆，相呴以湿，相濡以沫，不如相忘于江湖。",
+    "translation": "When the spring dries up, fish trapped on land moisten each other with spit — better to have forgotten each other in the rivers and lakes.",
+    "reflection": "有没有一段关系，与其互相消耗着维持，不如各自海阔天空？",
+    "themes": [
+      "关系",
+      "放下"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·大宗师》",
+    "originalText": "且夫得者，时也；失者，顺也。安时而处顺，哀乐不能入也。",
+    "translation": "Gaining is a matter of timing; losing is a matter of following along. At peace with timing and going along with what comes, sorrow and joy cannot enter.",
+    "reflection": "你现在的“失去”，会不会只是顺应了它本该有的时机？",
+    "themes": [
+      "无常",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·大宗师》",
+    "originalText": "相忘以生，无所终穷。",
+    "translation": "Forgetting oneself in the flow of life, one finds no end to it.",
+    "reflection": "你有没有过那种忘记自己、全然投入的时刻？",
+    "themes": [
+      "当下",
+      "专注"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·应帝王》",
+    "originalText": "至人之用心若镜，不将不迎，应而不藏。",
+    "translation": "The perfected mind is like a mirror — it does not chase, does not welcome, responds but does not hold.",
+    "reflection": "今天你的心是否像一面镜子，只是如实映照？还是在追逐或抗拒什么？",
+    "themes": [
+      "觉察",
+      "当下"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·应帝王》",
+    "originalText": "无为名尸，无为谋府，无为事任，无为知主。",
+    "translation": "Do not be a hoarder of fame, a den of schemes, a bearer of every task, or a master of knowledge.",
+    "reflection": "你是不是把太多身份和责任都揽到了自己身上？",
+    "themes": [
+      "边界",
+      "简单"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·骈拇》",
+    "originalText": "凫胫虽短，续之则忧；鹤胫虽长，断之则悲。",
+    "translation": "A duck's legs are short, but to lengthen them brings distress; a crane's legs are long, but to cut them brings sorrow.",
+    "reflection": "你有没有试图把自己改造成不属于自己的样子？",
+    "themes": [
+      "自我认同",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·秋水》",
+    "originalText": "井蛙不可以语于海者，拘于虚也。",
+    "translation": "You cannot discuss the ocean with a frog in a well, for it is confined by its own space.",
+    "reflection": "有没有一个你深信不疑的观念，其实只是因为你还没见过更大的世界？",
+    "themes": [
+      "谦逊",
+      "成长"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·秋水》",
+    "originalText": "夏虫不可以语于冰者，笃于时也。",
+    "translation": "You cannot discuss ice with a summer insect, for it is bound by its own season.",
+    "reflection": "你能不能对那些还没经历过你这些体会的人，多一点耐心？",
+    "themes": [
+      "同理心",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·秋水》",
+    "originalText": "吾在天地之间，犹小石小木之在大山也。",
+    "translation": "I exist between heaven and earth as a small stone or a small tree exists on a great mountain.",
+    "reflection": "把自己放在浩瀚的天地里看，你现在的烦恼是不是小了很多？",
+    "themes": [
+      "谦逊",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·至乐》",
+    "originalText": "生也死之徒，死也生之始，孰知其纪！",
+    "translation": "Life is the companion of death, death is the beginning of life — who can know their true order?",
+    "reflection": "你对死亡的恐惧，会不会也是对生命的一种误解？",
+    "themes": [
+      "死亡",
+      "无常"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·达生》",
+    "originalText": "夫醉者之坠车，虽疾不死。",
+    "translation": "A drunk man falling from a cart, though hurt, does not die — because his spirit is whole and unguarded.",
+    "reflection": "有没有因为你放松了防备，反而更安然地度过了一次冲击？",
+    "themes": [
+      "放下",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·山木》",
+    "originalText": "直木先伐，甘井先竭。",
+    "translation": "The straight tree is the first to be cut; the sweet well is the first to run dry.",
+    "reflection": "你身上那些最出众的地方，会不会也是最容易被消耗的地方？",
+    "themes": [
+      "边界",
+      "自我关怀"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·田子方》",
+    "originalText": "喜怒哀乐不入于胸次。",
+    "translation": "Joy, anger, sorrow, and delight do not enter and disturb the chest within.",
+    "reflection": "你能不能让情绪经过你，而不是长久地占据你？",
+    "themes": [
+      "情绪",
+      "平静"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·知北游》",
+    "originalText": "人生天地之间，若白驹之过隙，忽然而已。",
+    "translation": "Human life between heaven and earth is like a white colt glimpsed through a crack in the wall — over in an instant.",
+    "reflection": "如果生命真的这么短暂，你现在最想把时间花在哪里？",
+    "themes": [
+      "无常",
+      "当下"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·知北游》",
+    "originalText": "知者不言，言者不知，故圣人行不言之教。",
+    "translation": "Those who know do not speak of it; those who speak of it do not truly know — thus the sage teaches without words.",
+    "reflection": "有没有一种理解，是只能靠自己去体会，而不是靠别人讲道理？",
+    "themes": [
+      "智慧",
+      "觉察"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·外物》",
+    "originalText": "荃者所以在鱼，得鱼而忘荃。",
+    "translation": "A fish trap exists because of the fish; once you have the fish, you forget the trap.",
+    "reflection": "有没有一个方法或工具，你已经不再需要了，却还紧抓着不放？",
+    "themes": [
+      "放下",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·外物》",
+    "originalText": "人皆知有用之用，而莫知无用之用也。",
+    "translation": "Everyone knows the usefulness of what is useful, but no one knows the usefulness of what is useless.",
+    "reflection": "生活里那些“没什么用”的休息和留白，是不是其实很重要？",
+    "themes": [
+      "平衡",
+      "休息"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·列御寇》",
+    "originalText": "巧者劳而智者忧，无能者无所求。",
+    "translation": "The skilful toil and the clever worry; the one without ability seeks nothing and is at ease.",
+    "reflection": "你的能力，有没有反而变成了让你停不下来的原因？",
+    "themes": [
+      "休息",
+      "简单"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《列子·天瑞》",
+    "originalText": "运转亡已，天地密移，畴觉之哉？",
+    "translation": "Motion never ceases; heaven and earth quietly shift — who is even aware of it?",
+    "reflection": "你有没有留意到，其实一切都在不知不觉中变化着？",
+    "themes": [
+      "无常",
+      "觉察"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《列子·汤问》",
+    "originalText": "愚公移山：虽我之死，有子存焉。",
+    "translation": "The Foolish Old Man moving the mountain: even after I die, my children remain to carry on.",
+    "reflection": "有没有一件事，你也许看不到它的结果，但依然值得现在开始？",
+    "themes": [
+      "坚持",
+      "意义"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《列子·说符》",
+    "originalText": "人有亡鈇者，意其邻之子。",
+    "translation": "A man who lost his axe suspected his neighbour's son — until he found the axe, and the son no longer looked suspicious at all.",
+    "reflection": "你对某人的怀疑或成见，有没有可能只是你自己心里的投射？",
+    "themes": [
+      "觉察",
+      "关系"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《列子·说符》",
+    "originalText": "塞翁失马，焉知非福。",
+    "translation": "The old man at the frontier lost his horse — how could one know it was not a blessing?",
+    "reflection": "你现在觉得是坏事的事情，会不会将来回头看是一件好事？",
+    "themes": [
+      "无常",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第八章》",
+    "originalText": "居善地，心善渊，与善仁，言善信。",
+    "translation": "Dwell in a good place, keep the heart deep and calm, be kind in giving, be true in speaking.",
+    "reflection": "这几件小事——安住、沉静、善意、真诚——你今天做到了哪一件？",
+    "themes": [
+      "自我关怀",
+      "诚实"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十章》",
+    "originalText": "载营魄抱一，能无离乎？",
+    "translation": "Can you embrace the One with body and soul, and never let them separate?",
+    "reflection": "你的身体和心，最近是不是有点各走各的？",
+    "themes": [
+      "觉察",
+      "平衡"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第十四章》",
+    "originalText": "执古之道，以御今之有。",
+    "translation": "Hold to the ancient Way in order to master what exists today.",
+    "reflection": "老祖宗留下的智慧，有没有一句正好能照进你今天的处境？",
+    "themes": [
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《心经》",
+    "originalText": "观自在菩萨，行深般若波罗蜜多时，照见五蕴皆空，度一切苦厄。",
+    "translation": "The Bodhisattva of Compassion, practising deep wisdom, saw that all five aggregates are empty, and was freed from all suffering.",
+    "reflection": "如果你此刻正在承受的这份苦，本质上也是无常流动的，会不会松一点？",
+    "themes": [
+      "空性",
+      "放下"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《心经》",
+    "originalText": "是诸法空相，不生不灭，不垢不净，不增不减。",
+    "translation": "All phenomena are marked by emptiness — neither arising nor ceasing, neither defiled nor pure, neither increasing nor decreasing.",
+    "reflection": "你给自己贴的那些“好”或“坏”的标签，是不是也没那么绝对？",
+    "themes": [
+      "空性",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《心经》",
+    "originalText": "心无挂碍，无挂碍故，无有恐怖，远离颠倒梦想。",
+    "translation": "With no hindrance in the mind, there is no fear, and one is far removed from confused, upside-down thinking.",
+    "reflection": "你心里现在挂着的那件事，能不能先放下一会儿？",
+    "themes": [
+      "放下",
+      "焦虑"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《金刚经》",
+    "originalText": "应无所住而生其心。",
+    "translation": "Let the mind arise without dwelling on anything.",
+    "reflection": "你有没有一个念头，抓得太紧，反而困住了自己？",
+    "themes": [
+      "放下",
+      "觉察"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《金刚经》",
+    "originalText": "一切有为法，如梦幻泡影，如露亦如电，应作如是观。",
+    "translation": "All conditioned phenomena are like a dream, an illusion, a bubble, a shadow, like dew or a flash of lightning — thus should they be seen.",
+    "reflection": "你现在紧紧抓着的这件事，如果只是一场露水般短暂的显现呢？",
+    "themes": [
+      "无常",
+      "空性"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《金刚经》",
+    "originalText": "凡所有相，皆是虚妄。若见诸相非相，即见如来。",
+    "translation": "All appearances are illusory. If you see that all appearances are not what they seem, you see the truth.",
+    "reflection": "你眼前这件事的“样子”，和它的真相，是同一件事吗？",
+    "themes": [
+      "觉察",
+      "空性"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《金刚经》",
+    "originalText": "不应住色生心，不应住声香味触法生心，应无所住而生其心。",
+    "translation": "Do not let the mind dwell on sights, sounds, smells, tastes, or sensations — let it arise without attachment.",
+    "reflection": "你的情绪，是不是常常被眼睛看到、耳朵听到的东西牵着走？",
+    "themes": [
+      "觉察",
+      "情绪"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《六祖坛经》",
+    "originalText": "菩提本无树，明镜亦非台，本来无一物，何处惹尘埃。",
+    "translation": "Bodhi is originally no tree, the bright mirror has no stand — there was never a single thing, so where could dust ever land?",
+    "reflection": "你心里那些“脏”的部分，会不会本来就不存在，只是你以为它在？",
+    "themes": [
+      "空性",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《六祖坛经》",
+    "originalText": "不是风动，不是幡动，仁者心动。",
+    "translation": "It is not the wind that moves, not the flag — it is your mind that moves.",
+    "reflection": "最近有什么外在的事让你内心起了波澜？那个波澜本身在告诉你什么？",
+    "themes": [
+      "觉察",
+      "情绪"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《六祖坛经》",
+    "originalText": "迷时师度，悟了自度。",
+    "translation": "When confused, one relies on a teacher to be guided; once awakened, one guides oneself.",
+    "reflection": "有没有一个道理，别人讲了很多次，直到你自己明白，才真正懂了？",
+    "themes": [
+      "成长",
+      "自知"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《六祖坛经》",
+    "originalText": "佛法在世间，不离世间觉。",
+    "translation": "The Dharma is found within the world; awakening is not apart from worldly life.",
+    "reflection": "你的修行，需不需要躲开生活？还是就在洗碗、通勤、吵架里？",
+    "themes": [
+      "当下",
+      "接纳"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "《六祖坛经》",
+    "originalText": "一念愚即般若绝，一念智即般若生。",
+    "translation": "One foolish thought cuts off wisdom; one wise thought gives rise to wisdom.",
+    "reflection": "这一刻的念头，你想让它是哪一种？",
+    "themes": [
+      "觉察",
+      "当下"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "《六祖坛经》",
+    "originalText": "心平何劳持戒，行直何用修禅。",
+    "translation": "If the mind is at peace, why labour over precepts? If conduct is upright, why bother with meditation?",
+    "reflection": "你有没有把“修行”想得太复杂，而忘了它其实很简单？",
+    "themes": [
+      "简单",
+      "平静"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《华严经》",
+    "originalText": "不忘初心，方得始终。",
+    "translation": "Only by remembering your original intention can you complete the journey.",
+    "reflection": "你最初为什么出发？那个原因现在还在吗？",
+    "themes": [
+      "初心",
+      "方向"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "《华严经》",
+    "originalText": "一切众生，皆有如来智慧德相，但以妄想执着，不能证得。",
+    "translation": "All beings possess the wisdom and virtue of a Buddha, but fail to realise it because of delusion and attachment.",
+    "reflection": "你身上那份本来具足的智慧，有没有被你的执念挡住了？",
+    "themes": [
+      "自知",
+      "放下"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《华严经》",
+    "originalText": "心如工画师，能画诸世间。",
+    "translation": "The mind is like a skilled painter, capable of painting the whole world.",
+    "reflection": "你此刻的心情，正在把眼前的世界画成什么颜色？",
+    "themes": [
+      "觉察",
+      "情绪"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "风来疏竹，风过而竹不留声；雁度寒潭，雁去而潭不留影。",
+    "translation": "Wind passes through bamboo and leaves no sound; a wild goose crosses a cold pond and leaves no reflection.",
+    "reflection": "你能不能让今天发生的事情穿过你，而不被它黏住？",
+    "themes": [
+      "放下",
+      "觉察"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "宠辱不惊，闲看庭前花开花落；去留无意，漫随天外云卷云舒。",
+    "translation": "Unmoved by favour or disgrace, calmly watching flowers bloom and fall in the courtyard; indifferent to staying or leaving, following the clouds as they gather and scatter beyond the sky.",
+    "reflection": "别人的一句评价，你能不能像看花开花落一样，看它自然地来去？",
+    "themes": [
+      "平静",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "人生福境祸区，皆念想造成。",
+    "translation": "Life's blessings and misfortunes are both created by the mind's own thoughts.",
+    "reflection": "你现在的处境，有多少是事实，有多少是你脑补出来的？",
+    "themes": [
+      "觉察",
+      "情绪"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "径路窄处，留一步与人行；滋味浓时，减三分让人尝。",
+    "translation": "Where the path narrows, leave a step for others to pass; where the flavour is rich, hold back a portion for others to taste.",
+    "reflection": "你能不能在得到很多的时候，也留一点给别人？",
+    "themes": [
+      "慈悲",
+      "关系"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "花看半开，酒饮微醺，此中大有佳趣。",
+    "translation": "Flowers are best seen half-open, wine best enjoyed lightly buzzed — within this lies great delight.",
+    "reflection": "你有没有把一件本该轻松享受的事，硬要做到极致，反而失去了乐趣？",
+    "themes": [
+      "平衡",
+      "知足"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "欲路上事，毋乐其便而姑为染指。",
+    "translation": "On the path of desire, do not delight in its convenience and casually dip your fingers in.",
+    "reflection": "有没有一件让你上瘾的小方便，正在一点点侵蚀你？",
+    "themes": [
+      "自律",
+      "欲望"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "居逆境中，周身皆针砭药石，砥节砺行而不觉。",
+    "translation": "Living in adversity, everything around becomes a needle or a tonic — sharpening one's integrity without even noticing.",
+    "reflection": "你现在的困境，有没有可能正在悄悄地把你打磨得更好？",
+    "themes": [
+      "接纳",
+      "成长"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "爱重反为仇，薄极翻成喜。",
+    "translation": "Too much love can turn into resentment; extreme coldness can turn into unexpected joy.",
+    "reflection": "有没有一段关系，因为期待太高，反而更容易失望？",
+    "themes": [
+      "关系",
+      "期待"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "宠利毋居人前，德业毋落人后。",
+    "translation": "Do not stand at the front when it comes to favour and profit; do not fall behind when it comes to virtue and deeds.",
+    "reflection": "你争的，是利益还是价值？",
+    "themes": [
+      "边界",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "世人以心肯处为乐，却被乐心引在苦处。",
+    "translation": "People take pleasure in what their heart desires, yet that very desire often leads them into suffering.",
+    "reflection": "你追逐的那件“快乐的事”，最后是不是反而带来了更多烦恼？",
+    "themes": [
+      "觉察",
+      "欲望"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "天地寂然不动，而气机无息稍停；日月昼夜奔驰，而贞明万古不易。",
+    "translation": "Heaven and earth appear still, yet their vital energy never pauses; sun and moon race day and night, yet their radiant constancy never changes.",
+    "reflection": "你的内心，能不能同时做到既安静，又持续地在动？",
+    "themes": [
+      "平衡",
+      "平静"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "德者才之主，才者德之奴。",
+    "translation": "Virtue is the master of talent; talent is the servant of virtue.",
+    "reflection": "你更看重自己的能力，还是自己的品行？",
+    "themes": [
+      "自我认同",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "伏久者飞必高，开先者谢独早。",
+    "translation": "What has crouched long will fly high; what blooms first will wither soonest.",
+    "reflection": "你现在的“还没起飞”，会不会正是在积蓄真正的高度？",
+    "themes": [
+      "耐心",
+      "成长"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "心地干净，方可读书学古。",
+    "translation": "Only with a clear and clean mind can one truly study books and learn from the ancients.",
+    "reflection": "你现在心里是不是太乱了，才觉得学什么都学不进去？",
+    "themes": [
+      "平静",
+      "学习"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "能脱俗便是奇，作意尚奇者，不为奇而为异。",
+    "translation": "Being free from convention is remarkable; but deliberately seeking to be remarkable makes one merely strange, not truly remarkable.",
+    "reflection": "你现在追求的“与众不同”，是发自内心，还是刻意表演？",
+    "themes": [
+      "自我认同",
+      "诚实"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "风恬浪静中，见人生之真境；味淡声希处，识心体之本然。",
+    "translation": "In calm winds and quiet waves, one sees the true state of life; in blandness and silence, one recognises the original nature of the mind.",
+    "reflection": "你有没有在最平淡的时刻，反而看清了什么最重要？",
+    "themes": [
+      "平静",
+      "觉察"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "十语九中，未必称奇；一语不中，则愆尤骈集。",
+    "translation": "Ten words right out of ten rarely bring praise; one word wrong brings a flood of blame.",
+    "reflection": "你对自己的苛责，是不是总盯着那唯一没做好的地方？",
+    "themes": [
+      "自我关怀",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "十思九思，未必获采；一谋不成，则訾议丛兴。",
+    "translation": "Ten thoughtful plans out of ten may go unnoticed; one failed plan brings a chorus of criticism.",
+    "reflection": "别人对你唯一一次失误的批评，值得你否定自己全部的努力吗？",
+    "themes": [
+      "自我关怀",
+      "边界"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "事事留个有余不尽的意思，便造物不能忌我，鬼神不能损我。",
+    "translation": "Leave a little room in everything you do, and neither fate nor spirits can harm you.",
+    "reflection": "你有没有把一件事做得太满、太尽，没给自己和别人留一点余地？",
+    "themes": [
+      "平衡",
+      "谦逊"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "夜深人静，独坐观心，始觉妄穷而真独露。",
+    "translation": "In the deep quiet of night, sitting alone and observing the mind, one begins to see delusion exhausted and truth alone remaining.",
+    "reflection": "你有没有留一点独处安静的时间，看看自己心里到底在想什么？",
+    "themes": [
+      "独处",
+      "觉察"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "拨开世上尘氛，胸中自无火焰。",
+    "translation": "Brush aside the dust of the world, and no fire burns within the chest.",
+    "reflection": "外界的纷扰，有没有点燃你心里本不必有的怒火？",
+    "themes": [
+      "情绪",
+      "平静"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "石火光中，争长竞短，几何光阴？",
+    "translation": "In the flash of a spark from flint, we quarrel over who is longer or shorter — how much time is that really?",
+    "reflection": "你正在争的这件事，放在整个人生的长度里，还重要吗？",
+    "themes": [
+      "无常",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "人生减省一分，便超脱一分。",
+    "translation": "For every part of life one simplifies, one becomes that much more free.",
+    "reflection": "你的生活里，有没有什么可以再减掉一点？",
+    "themes": [
+      "简单",
+      "放下"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《菜根谭》",
+    "originalText": "宁静从容，观喜怒哀乐之交乘，而后见天地之心。",
+    "translation": "Only through quiet composure, watching joy and anger, sorrow and delight arise and pass, does one glimpse the heart of heaven and earth.",
+    "reflection": "下一次情绪来的时候，你能不能只是静静地看着它，而不是立刻被它带走？",
+    "themes": [
+      "情绪",
+      "觉察"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《法句经》",
+    "originalText": "诸恶莫作，众善奉行，自净其意，是诸佛教。",
+    "translation": "Avoid all evil, do all good, purify the mind — this is the teaching of all Buddhas.",
+    "reflection": "如果修行只剩三句话，你今天能做到哪一句？",
+    "themes": [
+      "简单",
+      "自律"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "《法句经》",
+    "originalText": "心为法本，心尊心使，中心念恶，即言即行，罪苦自追，车轹于辙。",
+    "translation": "Mind is the forerunner of all things; if one speaks or acts with an impure mind, suffering follows, as the wheel follows the ox that draws the cart.",
+    "reflection": "你最近的一个念头，正在把什么样的结果带向你？",
+    "themes": [
+      "因果",
+      "觉察"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "《法句经》",
+    "originalText": "以恨止恨，恨不能止；以爱止恨，此古老之法。",
+    "translation": "Hatred is never appeased by hatred; it is appeased by love — this is an ancient law.",
+    "reflection": "面对让你愤怒的人，除了以牙还牙，还有别的路吗？",
+    "themes": [
+      "宽恕",
+      "情绪"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《法句经》",
+    "originalText": "千言万语，若无益处，不如一句有益之言，令人闻已得寂静。",
+    "translation": "Better than a thousand hollow words is one word of meaning, on hearing which one attains peace.",
+    "reflection": "你说的话里，有多少是真正有分量的？",
+    "themes": [
+      "语言",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《法句经》",
+    "originalText": "胜者生怨，负者自鄙，胜负两俱舍，是则安乐生。",
+    "translation": "Victory breeds hatred, defeat brings suffering; the peaceful live happily, giving up both victory and defeat.",
+    "reflection": "你是不是很执着于每一次都要赢？",
+    "themes": [
+      "不争",
+      "平静"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《法句经》",
+    "originalText": "犹如蜂采蜜，不损色与香，但取其味去，比丘入聚然。",
+    "translation": "Like a bee gathering nectar without harming the flower's colour or scent, taking only its essence and moving on.",
+    "reflection": "你能不能从一段经历里，只带走它的养分，而不带走它的伤害？",
+    "themes": [
+      "智慧",
+      "放下"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《法句经》",
+    "originalText": "不放逸者不死，放逸者常如死人。",
+    "translation": "The vigilant do not die; the negligent are as if already dead.",
+    "reflection": "你有没有在浑浑噩噩地过日子，好像什么都无所谓？",
+    "themes": [
+      "自律",
+      "觉察"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《楞严经》",
+    "originalText": "狂心顿歇，歇即菩提。",
+    "translation": "When the frantic mind suddenly rests, that very rest is awakening.",
+    "reflection": "你能不能就在这一刻，让忙乱的心停下来？",
+    "themes": [
+      "平静",
+      "当下"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《楞严经》",
+    "originalText": "知见立知，即无明本；知见无见，斯即涅槃。",
+    "translation": "When knowing sets up more knowing, that is the root of ignorance; when knowing is free of fixed views, that itself is liberation.",
+    "reflection": "你对某件事的看法，是不是已经变成了一种执念？",
+    "themes": [
+      "觉察",
+      "放下"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《百丈丛林清规》",
+    "originalText": "一日不作，一日不食。",
+    "translation": "A day without work is a day without food.",
+    "reflection": "今天，你有没有为自己想要的生活，真正付出行动？",
+    "themes": [
+      "行动",
+      "自律"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "《五灯会元》",
+    "originalText": "平常心是道。",
+    "translation": "The ordinary mind is the Way.",
+    "reflection": "你有没有把“修行”想得太玄，而忽略了好好吃饭、好好睡觉？",
+    "themes": [
+      "简单",
+      "当下"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "《五灯会元》",
+    "originalText": "终日吃饭，未曾咬着一粒米；终日行，未曾踏着一片地。",
+    "translation": "All day eating, yet never truly biting a single grain; all day walking, yet never truly stepping on a single patch of ground.",
+    "reflection": "你今天做的事情里，有多少是真正全心投入、而不是心不在焉的？",
+    "themes": [
+      "当下",
+      "专注"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《五灯会元》",
+    "originalText": "春有百花秋有月，夏有凉风冬有雪。若无闲事挂心头，便是人间好时节。",
+    "translation": "Spring has a hundred flowers, autumn the moon; summer has cool breeze, winter has snow. If no idle worry hangs upon your mind, every season is a good season.",
+    "reflection": "如果你现在放下那件让你心烦的小事，此刻的天气其实很好，对吗？",
+    "themes": [
+      "当下",
+      "放下"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《碧岩录》",
+    "originalText": "山是山，水是水。",
+    "translation": "Mountains are mountains, rivers are rivers.",
+    "reflection": "经过一番思虑和折腾之后，你能不能重新简单地看待眼前这件事？",
+    "themes": [
+      "简单",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "憨山大师《费闲歌》",
+    "originalText": "修行容易遇师难，不遇明师总是闲。",
+    "translation": "Practice itself is easy, but meeting a true teacher is hard — without one, all effort drifts idle.",
+    "reflection": "你身边有没有一个真正能指点你的人？你有没有好好珍惜？",
+    "themes": [
+      "谦逊",
+      "成长"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "憨山大师《费闲歌》",
+    "originalText": "口说菩提心自坏，天堂未到地狱在。",
+    "translation": "Speaking of enlightenment while the heart itself decays — before reaching heaven, one is already in hell.",
+    "reflection": "你嘴上说的和心里做的，是不是不太一致？",
+    "themes": [
+      "诚实",
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《坛经·般若品》",
+    "originalText": "一切般若智，皆从自性而生，不从外入。",
+    "translation": "All wisdom arises from one's own nature; it does not come from outside.",
+    "reflection": "你一直向外寻找的答案，会不会其实早就在你心里？",
+    "themes": [
+      "自知",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《坛经·忏悔品》",
+    "originalText": "前念迷即凡夫，后念悟即佛。",
+    "translation": "The previous thought in confusion is an ordinary person; the next thought awakened is a Buddha.",
+    "reflection": "哪怕刚才的念头很乱，这一刻，你可以重新选择清醒。",
+    "themes": [
+      "当下",
+      "觉察"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《坛经·定慧品》",
+    "originalText": "外离相为禅，内不乱为定。",
+    "translation": "Being free from outer appearances is meditation; being undisturbed within is stillness.",
+    "reflection": "你能不能在纷扰的外界中，依然保持内心不乱？",
+    "themes": [
+      "平静",
+      "觉察"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《大智度论》",
+    "originalText": "布施之德，能破诸悭贪。",
+    "translation": "The virtue of giving can break through all forms of stinginess and greed.",
+    "reflection": "你能不能今天，无条件地给出点什么——时间、耐心，或是一句善意的话？",
+    "themes": [
+      "慈悲"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《大乘起信论》",
+    "originalText": "一切众生，本来常住，入于涅槃。",
+    "translation": "All beings originally abide, from the very beginning, in a state of ultimate peace.",
+    "reflection": "你相不相信，内心深处那份平静，其实从未真正离开过你？",
+    "themes": [
+      "平静",
+      "自知"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《维摩诘经》",
+    "originalText": "随其心净，则佛土净。",
+    "translation": "As the mind becomes pure, so too does the world one perceives.",
+    "reflection": "你眼中这个世界的样子，有多少是你内心状态的投影？",
+    "themes": [
+      "觉察",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《维摩诘经》",
+    "originalText": "烦恼即菩提。",
+    "translation": "Affliction itself is enlightenment.",
+    "reflection": "你现在的烦恼，会不会正是让你成长的养分？",
+    "themes": [
+      "接纳",
+      "成长"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《圆觉经》",
+    "originalText": "知幻即离，不作方便；离幻即觉，亦无渐次。",
+    "translation": "Knowing illusion, one is already free of it, without needing any method; being free of illusion, one is already awakened, without needing gradual steps.",
+    "reflection": "你有没有发现，看清一个执念的那一刻，它就已经松开了？",
+    "themes": [
+      "觉察",
+      "放下"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《佛遗教经》",
+    "originalText": "知足之人，虽卧地上，犹为安乐。",
+    "translation": "One who knows contentment, even lying on the bare ground, is still at ease.",
+    "reflection": "你此刻拥有的，是不是已经足够让你感到安稳？",
+    "themes": [
+      "知足",
+      "平静"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《佛遗教经》",
+    "originalText": "不知足者，虽处天堂，亦不称意。",
+    "translation": "One who does not know contentment, even in paradise, remains dissatisfied.",
+    "reflection": "你有没有发现，得到更多之后，欲望反而涨得更快？",
+    "themes": [
+      "知足",
+      "欲望"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《佛遗教经》",
+    "originalText": "制之一处，无事不办。",
+    "translation": "Focus the mind on one point, and there is nothing that cannot be accomplished.",
+    "reflection": "你的注意力，最近是不是被分散到了太多地方？",
+    "themes": [
+      "专注",
+      "自律"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《四十二章经》",
+    "originalText": "人有二十难：贫穷布施难，豪贵学道难。",
+    "translation": "There are twenty things hard for people to do: for the poor, it is hard to give; for the wealthy, it is hard to seek the Way.",
+    "reflection": "在你现在的处境里，哪一件“难事”，其实你正在做？",
+    "themes": [
+      "坚持",
+      "慈悲"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《四十二章经》",
+    "originalText": "人不为恶，如何有罪？",
+    "translation": "If a person does not do evil, how can they be at fault?",
+    "reflection": "别人对你的恶意，只要你不回应，是不是就没那么容易伤到你？",
+    "themes": [
+      "边界",
+      "情绪"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《大般涅槃经》",
+    "originalText": "诸行无常，是生灭法；生灭灭已，寂灭为乐。",
+    "translation": "All conditioned things are impermanent, arising and ceasing; when arising and ceasing themselves cease, that stillness is bliss.",
+    "reflection": "你能不能不抗拒变化，而是安住在变化本身里？",
+    "themes": [
+      "无常",
+      "平静"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "星云大师",
+    "originalText": "心中常存善念，脚下自有坦途。",
+    "translation": "Keep good intentions always in the heart, and the path underfoot will naturally be smooth.",
+    "reflection": "你今天心里存的，是善意，还是计较？",
+    "themes": [
+      "慈悲",
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "星云大师",
+    "originalText": "能忍自安，能让自宽。",
+    "translation": "Endurance brings peace; yielding brings spaciousness.",
+    "reflection": "有没有一件小事，你退一步，反而海阔天空？",
+    "themes": [
+      "宽容",
+      "平静"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "虚云老和尚",
+    "originalText": "但尽凡心，别无圣解。",
+    "translation": "Simply exhaust the ordinary, grasping mind — there is no special enlightenment apart from that.",
+    "reflection": "你追求的那个“更高的境界”，会不会就藏在好好过好每个平常的时刻里？",
+    "themes": [
+      "简单",
+      "当下"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "印光大师",
+    "originalText": "看一切人都是菩萨，唯我一人实是凡夫。",
+    "translation": "See everyone else as a bodhisattva; regard only yourself as the ordinary, unfinished one.",
+    "reflection": "如果你多看别人的好、多反省自己，关系会不会松很多？",
+    "themes": [
+      "谦逊",
+      "关系"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "弘一法师",
+    "originalText": "以慈悲心为怀，以惭愧心自省。",
+    "translation": "Hold compassion in your heart, and reflect on yourself with humility.",
+    "reflection": "今天，你对别人慈悲了吗？对自己诚实了吗？",
+    "themes": [
+      "慈悲",
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "弘一法师",
+    "originalText": "悲欣交集。",
+    "translation": "Sorrow and joy arise together.",
+    "reflection": "有没有一个时刻，你的眼泪里同时装着感激和心疼？",
+    "themes": [
+      "情绪",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《六祖坛经》",
+    "originalText": "若真修道人，不见世间过。",
+    "translation": "One who truly practises the Way does not dwell on the faults of the world.",
+    "reflection": "你花了多少精力，在评判别人的不是？",
+    "themes": [
+      "接纳",
+      "宽容"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《六祖坛经》",
+    "originalText": "下下人有上上智，上上人有没意智。",
+    "translation": "Even the humblest person may hold the highest wisdom; even the most accomplished may lack understanding.",
+    "reflection": "你有没有因为一个人的身份或地位，而低估了他的智慧？",
+    "themes": [
+      "谦逊",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《六祖坛经》",
+    "originalText": "生来坐不卧，死去卧不坐，一具臭骨头，何为立功课。",
+    "translation": "In life we sit without lying down, in death we lie without sitting — just a bag of bones, why make such a fuss over rigid rituals?",
+    "reflection": "你有没有把某个形式看得比它本来的意义还重要？",
+    "themes": [
+      "简单",
+      "觉察"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《大宝积经》",
+    "originalText": "譬如莲花，不着水。",
+    "translation": "Like a lotus flower, untouched by the water it grows in.",
+    "reflection": "你能不能置身于纷扰之中，却不被它沾染？",
+    "themes": [
+      "接纳",
+      "自我认同"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《杂阿含经》",
+    "originalText": "此有故彼有，此生故彼生；此无故彼无，此灭故彼灭。",
+    "translation": "Because this exists, that exists; because this arises, that arises. Because this does not exist, that does not exist; because this ceases, that ceases.",
+    "reflection": "你现在的处境，是由哪些条件一起促成的？如果换一个条件，结果会不会不同？",
+    "themes": [
+      "因果",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《杂阿含经》",
+    "originalText": "一切法无常，是名正见。",
+    "translation": "All things are impermanent — this is called right understanding.",
+    "reflection": "你正在害怕失去的东西，本来就不曾真正被你永远拥有过，对吗？",
+    "themes": [
+      "无常",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《中论》",
+    "originalText": "因缘所生法，我说即是空。",
+    "translation": "Whatever arises through causes and conditions, I declare to be empty of any fixed essence.",
+    "reflection": "你此刻认定的“事实”，是不是也只是很多条件凑巧碰在一起？",
+    "themes": [
+      "空性",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "赵州禅师",
+    "originalText": "吃茶去。",
+    "translation": "Go and have some tea.",
+    "reflection": "与其反复追问一个抽象的道理，你愿不愿意先去做眼前这件简单的事？",
+    "themes": [
+      "简单",
+      "当下"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "临济禅师",
+    "originalText": "随处作主，立处皆真。",
+    "translation": "Be the master of yourself wherever you are, and every place you stand becomes real and true.",
+    "reflection": "不管你现在身处什么环境，你能不能做自己的主人？",
+    "themes": [
+      "自我认同",
+      "独立"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "buddhist",
+    "source": "马祖道一禅师",
+    "originalText": "即心即佛。",
+    "translation": "This very mind is itself Buddha.",
+    "reflection": "你要找的那份觉醒，会不会此刻就在你心里，而不在别处？",
+    "themes": [
+      "自知",
+      "空性"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "黄檗禅师《传心法要》",
+    "originalText": "终日吃饭，未曾嚼着一粒米，终日行，未曾踏着一片地。当此之时，无人我等相。",
+    "translation": "All day eating, yet never chewing a single grain; all day walking, yet never treading a single patch of ground — at such a time, there is no separation of self and other.",
+    "reflection": "你有没有过那种全然投入、忘了“我”存在的时刻？",
+    "themes": [
+      "当下",
+      "专注"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "德山禅师",
+    "originalText": "道得也三十棒，道不得也三十棒。",
+    "translation": "Whether you can answer or not, thirty blows either way.",
+    "reflection": "有没有一件事，无论你怎么选，都要承担后果？那不如就诚实地选。",
+    "themes": [
+      "勇气",
+      "自我认同"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "石屋禅师",
+    "originalText": "万事无如退步休。",
+    "translation": "Nothing compares to the peace of simply stepping back.",
+    "reflection": "有没有一件争执，你退一步，反而更轻松？",
+    "themes": [
+      "不争",
+      "平静"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "寒山诗",
+    "originalText": "人问寒山道，寒山路不通。夏天冰未释，日出雾朦胧。",
+    "translation": "Someone asks the way to Cold Mountain — but the road to Cold Mountain does not go through. In summer the ice has not yet melted, and at sunrise the mist still hangs thick.",
+    "reflection": "有没有一条路，你必须自己走过，才会真正懂？",
+    "themes": [
+      "独立",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "寒山诗",
+    "originalText": "吾心似秋月，碧潭清皎洁。",
+    "translation": "My mind is like the autumn moon, clear and bright in the deep green pool.",
+    "reflection": "你能不能让自己的心，像秋夜的月亮一样清澈安静？",
+    "themes": [
+      "平静",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "布袋和尚",
+    "originalText": "行也布袋，坐也布袋，放下布袋，何等自在。",
+    "translation": "Walking with the sack, sitting with the sack — put down the sack, and how free one becomes.",
+    "reflection": "你一直背着的那个“包袱”，是什么？现在能不能放下一点？",
+    "themes": [
+      "放下",
+      "自在"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《法华经》",
+    "originalText": "是法住法位，世间相常住。",
+    "translation": "Each phenomenon abides in its own place; the appearances of the world are always so.",
+    "reflection": "你能不能允许事情如其本然地存在，而不是一定要它变成你想要的样子？",
+    "themes": [
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《大方广佛华严经》",
+    "originalText": "若人欲了知，三世一切佛，应观法界性，一切唯心造。",
+    "translation": "If one wishes to understand all Buddhas of past, present, and future, one should observe the nature of reality: all is created by mind alone.",
+    "reflection": "你眼前这个“很难”的处境，有没有一部分，是被你的想法放大的？",
+    "themes": [
+      "觉察",
+      "智慧"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《大方广佛华严经》",
+    "originalText": "不忘初心，方得始终；自当从始至终，不生退转。",
+    "translation": "Never forgetting the original resolve, one reaches the end; from beginning to end, one does not retreat.",
+    "reflection": "这件事让你半途而废的念头，能不能再坚持一下？",
+    "themes": [
+      "初心",
+      "坚持"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《地藏经》",
+    "originalText": "我不入地狱，谁入地狱。",
+    "translation": "If I do not enter hell, who will?",
+    "reflection": "有没有一件辛苦的事，你愿意扛下来，只因为别人扛不动？",
+    "themes": [
+      "慈悲",
+      "责任"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《观无量寿经》",
+    "originalText": "是心作佛，是心是佛。",
+    "translation": "This very mind makes the Buddha; this very mind is the Buddha.",
+    "reflection": "你相不相信，成为更好的自己，从来不需要向外求？",
+    "themes": [
+      "自知",
+      "成长"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《阿弥陀经》",
+    "originalText": "一心不乱。",
+    "translation": "A single mind, undisturbed.",
+    "reflection": "今天有没有那么一段时间，你的心真正专一而不散乱？",
+    "themes": [
+      "专注",
+      "平静"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《大乘本生心地观经》",
+    "originalText": "心生则种种法生，心灭则种种法灭。",
+    "translation": "When mind arises, all things arise with it; when mind ceases, all things cease with it.",
+    "reflection": "你眼前这堆麻烦，会不会只是因为心先乱了？",
+    "themes": [
+      "觉察",
+      "情绪"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《华严经·净行品》",
+    "originalText": "若得五欲，当愿众生，拔除欲箭，究竟安隐。",
+    "translation": "When gaining what one desires, may all beings pull out the arrow of craving and find ultimate peace.",
+    "reflection": "满足一个欲望之后，你的心真的安定下来了吗，还是又生出新的渴望？",
+    "themes": [
+      "欲望",
+      "知足"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《优婆塞戒经》",
+    "originalText": "施主一粒米，大如须弥山。",
+    "translation": "A single grain of rice given by a donor weighs as much as Mount Sumeru.",
+    "reflection": "别人给你的一点点帮助，你有没有真正放在心上感激？",
+    "themes": [
+      "感恩"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "星云大师《人间万事》",
+    "originalText": "世间没有绝对的好坏，只有相对的因缘。",
+    "translation": "There is no absolute good or bad in the world, only relative causes and conditions.",
+    "reflection": "你现在评判为“坏”的这件事，换一个角度看，会不会不一样？",
+    "themes": [
+      "接纳",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "圣严法师",
+    "originalText": "面对它，接受它，处理它，放下它。",
+    "translation": "Face it, accept it, deal with it, let it go.",
+    "reflection": "你现在卡在哪一步——还没面对，还是不肯放下？",
+    "themes": [
+      "接纳",
+      "放下"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "圣严法师",
+    "originalText": "需要的不多，想要的太多。",
+    "translation": "What we need is little; what we want is far too much.",
+    "reflection": "如果只留下真正需要的，你会发现自己拥有的，已经足够多。",
+    "themes": [
+      "知足",
+      "简单"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "法鼓山《心六伦》",
+    "originalText": "心安就是最大的快乐。",
+    "translation": "A settled heart is the greatest happiness of all.",
+    "reflection": "比起外在的成就，你有多久没有问过自己，心安不安？",
+    "themes": [
+      "平静",
+      "自我关怀"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·八佾》",
+    "originalText": "人而不仁，如礼何？人而不仁，如乐何？",
+    "translation": "If a person lacks true goodness, what use is ritual to them? What use is music to them?",
+    "reflection": "你做的那些“该做的事”，心里还有没有真正的诚意？",
+    "themes": [
+      "诚实",
+      "自省"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·雍也》",
+    "originalText": "中庸之为德也，其至矣乎！",
+    "translation": "The virtue of the middle way — how supreme it is!",
+    "reflection": "你最近是不是走了极端，忘了还有一个更平衡的选择？",
+    "themes": [
+      "平衡"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·子路》",
+    "originalText": "无欲速，无见小利。欲速则不达，见小利则大事不成。",
+    "translation": "Do not desire haste, do not covet small gains. Haste leads to failure; small gains ruin great tasks.",
+    "reflection": "你现在赶着完成的这件事，值不值得放慢一点脚步？",
+    "themes": [
+      "耐心",
+      "方向"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《论语·宪问》",
+    "originalText": "不怨天，不尤人，下学而上达。",
+    "translation": "Not resenting heaven, not blaming others, studying what is near at hand while reaching for what is higher.",
+    "reflection": "遇到不顺的事，你的第一反应是抱怨，还是往前走一步？",
+    "themes": [
+      "责任",
+      "成长"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "confucian",
+    "source": "《孟子·公孙丑下》",
+    "originalText": "天时不如地利，地利不如人和。",
+    "translation": "Favourable timing is not as good as advantageous terrain; advantageous terrain is not as good as harmony among people.",
+    "reflection": "你现在最需要修复的，是外在的条件，还是身边的关系？",
+    "themes": [
+      "关系",
+      "智慧"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十二章》",
+    "originalText": "知止可以不殆。",
+    "translation": "Knowing where to stop, one avoids danger.",
+    "reflection": "有没有一件事，你该停下来了，但还没停？",
+    "themes": [
+      "边界",
+      "智慧"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十九章》",
+    "originalText": "不欲琭琭如玉，珞珞如石。",
+    "translation": "Do not wish to shine like polished jade; be plain and solid like a rock.",
+    "reflection": "你有没有为了显得出众，反而失去了自己本来朴实的样子？",
+    "themes": [
+      "简单",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第五十七章》",
+    "originalText": "我无为而民自化，我好静而民自正。",
+    "translation": "When I take no forceful action, people transform themselves; when I love stillness, people naturally become upright.",
+    "reflection": "你能不能少一点控制，多一点信任，让事情自然地发展？",
+    "themes": [
+      "无为",
+      "接纳"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·天道》",
+    "originalText": "夫虚静恬淡寂漠无为者，天地之平而道德之至也。",
+    "translation": "Emptiness, stillness, calm, plainness, quietude, and non-action — these are the level ground of heaven and earth, the ultimate of the Way.",
+    "reflection": "你能不能今天留一点时间，什么都不做，只是安静地待着？",
+    "themes": [
+      "平静",
+      "简单"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第三十三章》",
+    "originalText": "知人者智，自知者明。",
+    "translation": "To know others is intelligence; to know yourself is true wisdom.",
+    "reflection": "此刻，有没有一个关于自己的真相，你一直在回避？",
+    "themes": [
+      "自知",
+      "自我认同"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第八章》",
+    "originalText": "上善若水。水善利万物而不争。",
+    "translation": "The highest good is like water — it benefits all things and does not compete.",
+    "reflection": "你有没有发现，最让你安心的人，往往不是最强势的，而是最柔和的？",
+    "themes": [
+      "不争",
+      "关系"
+    ],
+    "moodFit": "any"
+  },
+  {
+    "school": "daoist",
+    "source": "《庄子·逍遥游》",
+    "originalText": "至人无己，神人无功，圣人无名。",
+    "translation": "The ultimate person has no fixed self-image; the spiritual person claims no credit; the sage seeks no fame.",
+    "reflection": "你有没有被自己的“人设”困住？如果放下那个形象，你会是谁？",
+    "themes": [
+      "自我认同",
+      "放下"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "daoist",
+    "source": "《道德经·第二十二章》",
+    "originalText": "曲则全，枉则直，洼则盈。",
+    "translation": "To be bent is to become whole; to be crooked is to become straight; to be hollow is to be filled.",
+    "reflection": "你现在经历的弯路，有没有可能正在带你去一个直路到不了的地方？",
+    "themes": [
+      "无常",
+      "接纳"
+    ],
+    "moodFit": "turbulent"
+  },
+  {
+    "school": "buddhist",
+    "source": "《心经》",
+    "originalText": "色不异空，空不异色。",
+    "translation": "Form is not different from emptiness; emptiness is not different from form.",
+    "reflection": "你现在紧紧抓住的某样东西，如果放下，会发生什么？",
+    "themes": [
+      "放下",
+      "无常"
+    ],
+    "moodFit": "calm"
+  },
+  {
+    "school": "buddhist",
+    "source": "《金刚经》",
+    "originalText": "过去心不可得，现在心不可得，未来心不可得。",
+    "translation": "The past mind cannot be grasped, the present mind cannot be grasped, the future mind cannot be grasped.",
+    "reflection": "你是更多地活在对过去的回忆里，还是对未来的担忧里？此刻呢？",
+    "themes": [
+      "当下",
+      "焦虑"
+    ],
+    "moodFit": "turbulent"
+  }
+]
