@@ -19,7 +19,7 @@ export function JournalEntryCard({ entry }: JournalEntryCardProps) {
   const meta = MOOD_META[entry.mood];
 
   return (
-    <div className="rounded-xl border border-gold/15 bg-white p-4">
+    <div className="rounded-xl border border-gold/35 bg-white p-4">
       <div className="flex items-center justify-between">
         <span className="text-xl" aria-label={meta.label}>
           {meta.emoji}

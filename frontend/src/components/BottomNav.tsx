@@ -3,7 +3,7 @@ import { NAV_TABS } from './navTabs';
 
 export function BottomNav() {
   return (
-    <nav className="fixed inset-x-0 bottom-0 flex border-t border-gold/20 bg-white lg:hidden">
+    <nav className="fixed inset-x-0 bottom-0 flex border-t border-gold/30 bg-white lg:hidden">
       {NAV_TABS.map((tab) => (
         <NavLink
           key={tab.to}
