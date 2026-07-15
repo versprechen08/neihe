@@ -14,6 +14,12 @@ import type {
 
 const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000/api/v1';
 
+export const TOKEN_KEY = 'neihe_token';
+
+// Routes that call auth endpoints directly — a 401 here means "wrong
+// credentials", not "your session expired", so it must not redirect.
+const AUTH_ROUTES = ['/login', '/register'];
+
 export class ApiError extends Error {
   status: number;
 
@@ -25,7 +31,7 @@ export class ApiError extends Error {
 }
 
 async function request<T>(path: string, options?: RequestInit): Promise<T> {
-  const token = localStorage.getItem('neihe_token');
+  const token = localStorage.getItem(TOKEN_KEY);
 
   const res = await fetch(`${BASE_URL}${path}`, {
     headers: {
@@ -37,6 +43,10 @@ async function request<T>(path: string, options?: RequestInit): Promise<T> {
 
   if (!res.ok) {
     const error = await res.json().catch(() => ({ message: res.statusText }));
+    if (res.status === 401 && !AUTH_ROUTES.includes(window.location.pathname)) {
+      localStorage.removeItem(TOKEN_KEY);
+      window.location.assign('/login');
+    }
     throw new ApiError(error.message || `Request failed: ${res.status}`, res.status);
   }
 
