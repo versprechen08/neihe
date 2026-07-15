@@ -62,4 +62,27 @@ describe('TopNav', () => {
     expect(localStorage.getItem(TOKEN_KEY)).toBeNull();
     expect(screen.getByRole('link', { name: '登录' })).toBeInTheDocument();
   });
+
+  it('renders a login-prompt tooltip on the 手记 tab when logged out', () => {
+    renderTopNav();
+
+    expect(screen.getByText(/登录后即可记录和查看你的手记/)).toBeInTheDocument();
+    expect(screen.getByRole('link', { name: '去登录' })).toHaveAttribute('href', '/login');
+  });
+
+  it('does not render the login-prompt tooltip on 手记 when logged in', () => {
+    localStorage.setItem(TOKEN_KEY, 'fake-token');
+
+    renderTopNav();
+
+    expect(screen.queryByText(/登录后即可记录和查看你的手记/)).not.toBeInTheDocument();
+    expect(screen.queryByRole('link', { name: '去登录' })).not.toBeInTheDocument();
+  });
+
+  it('does not render a login-prompt tooltip on tabs that do not require auth', () => {
+    renderTopNav();
+
+    const todayLink = screen.getByRole('link', { name: '今日' });
+    expect(todayLink.parentElement).not.toHaveClass('group');
+  });
 });
