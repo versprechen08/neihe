@@ -9,7 +9,7 @@ interface CardLibraryPanelProps {
 
 export function CardLibraryPanel({ onSelect, activeCardText }: CardLibraryPanelProps) {
   return (
-    <section className="rounded-2xl border border-gold/20 bg-white p-6 lg:p-8">
+    <section className="rounded-2xl border border-gold/35 border-t-4 border-t-pine bg-white p-6 lg:p-8">
       <h2 className="text-sm font-medium text-ink lg:text-base">全部卡片</h2>
       <p className="mt-1 text-xs text-ash lg:text-sm">点击任意一句，直接查看</p>
 

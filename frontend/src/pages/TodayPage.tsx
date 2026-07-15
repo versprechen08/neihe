@@ -125,7 +125,7 @@ export function TodayPage() {
         <div className="flex flex-col gap-6">
           <PhilosophyCardView card={card} onNext={handleNext} isLoadingNext={isFetchingNext} />
 
-          <div className="rounded-2xl border border-gold/20 bg-white p-6 shadow-sm lg:p-8">
+          <div className="rounded-2xl border border-gold/35 border-t-4 border-t-gold bg-white p-6 shadow-sm lg:p-8">
             <h2 className="text-sm font-medium text-ink lg:text-base">记录此刻</h2>
             <div className="mt-4">
               <MoodSelector value={journalMood} onChange={setJournalMood} />

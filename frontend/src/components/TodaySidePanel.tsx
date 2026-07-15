@@ -26,7 +26,7 @@ const UPCOMING_FEATURES: UpcomingFeature[] = [
 export function TodaySidePanel() {
   return (
     <aside className="flex flex-col gap-6 lg:gap-8">
-      <section className="rounded-2xl border border-gold/20 bg-white p-6 lg:p-8">
+      <section className="rounded-2xl border border-gold/35 border-t-4 border-t-gold bg-white p-6 lg:p-8">
         <h2 className="text-sm font-medium text-ink lg:text-base">三家智慧</h2>
         <ul className="mt-4 flex flex-col gap-3 lg:mt-6 lg:gap-5">
           {SCHOOL_ORDER.map((school) => (
@@ -43,7 +43,7 @@ export function TodaySidePanel() {
         </ul>
       </section>
 
-      <section className="rounded-2xl border border-gold/20 bg-white p-6 lg:p-8">
+      <section className="rounded-2xl border border-gold/35 border-t-4 border-t-gold bg-white p-6 lg:p-8">
         <h2 className="text-sm font-medium text-ink lg:text-base">更多功能</h2>
         <ul className="mt-4 flex flex-col gap-1 lg:mt-6">
           {UPCOMING_FEATURES.map((feature) => (

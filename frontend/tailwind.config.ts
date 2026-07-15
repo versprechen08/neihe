@@ -6,7 +6,7 @@ export default {
 		extend: {
 			colors: {
 				pine: '#5B7553', // 松柏绿 — primary
-				paper: '#FAF8F5', // 宣纸 — background
+				paper: '#F2ECDD', // 宣纸 — background, warmer/deeper than pure off-white
 				ink: '#1A1A1A', // 墨 — text
 				ash: '#777777', // 烟灰 — secondary text
 				gold: '#B08D57', // 赤金 — premium accent for borders, dividers, hover states

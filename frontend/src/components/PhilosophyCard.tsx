@@ -1,6 +1,6 @@
 import type { PhilosophyCard as PhilosophyCardModel } from '../types';
 import { SCHOOL_META } from '../types';
-import { SCHOOL_BADGE_CLASS } from '../lib/schoolStyles';
+import { SCHOOL_BADGE_CLASS, SCHOOL_TOP_BORDER_CLASS } from '../lib/schoolStyles';
 
 interface PhilosophyCardProps {
   card: PhilosophyCardModel;
@@ -12,7 +12,9 @@ export function PhilosophyCard({ card, onNext, isLoadingNext = false }: Philosop
   const schoolMeta = SCHOOL_META[card.school];
 
   return (
-    <div className="rounded-2xl border border-gold/20 bg-white p-6 shadow-md transition-all duration-300 ease-out hover:border-gold/35 hover:shadow-lg lg:p-10">
+    <div
+      className={`rounded-2xl border border-gold/35 bg-white p-6 shadow-md transition-all duration-300 ease-out hover:border-gold/55 hover:shadow-lg lg:p-10 border-t-4 ${SCHOOL_TOP_BORDER_CLASS[card.school]}`}
+    >
       <span
         className={`inline-block rounded-full px-3 py-1 text-xs font-medium text-white lg:px-4 lg:py-1.5 lg:text-sm ${SCHOOL_BADGE_CLASS[card.school]}`}
       >
