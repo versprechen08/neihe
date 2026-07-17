@@ -68,4 +68,13 @@ describe('LoginPage', () => {
 
     expect(screen.getByRole('link', { name: '注册' })).toHaveAttribute('href', '/register');
   });
+
+  it('links to the forgot-password page', () => {
+    renderLoginPage();
+
+    expect(screen.getByRole('link', { name: '忘记密码？' })).toHaveAttribute(
+      'href',
+      '/forgot-password',
+    );
+  });
 });
