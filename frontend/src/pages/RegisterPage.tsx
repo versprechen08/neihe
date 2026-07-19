@@ -38,6 +38,7 @@ export function RegisterPage() {
           </label>
           <input
             id="email"
+            name="email"
             type="email"
             required
             autoComplete="email"
@@ -53,6 +54,7 @@ export function RegisterPage() {
           </label>
           <input
             id="nickname"
+            name="nickname"
             type="text"
             autoComplete="nickname"
             value={nickname}
@@ -67,6 +69,7 @@ export function RegisterPage() {
           </label>
           <input
             id="password"
+            name="password"
             type="password"
             required
             minLength={6}

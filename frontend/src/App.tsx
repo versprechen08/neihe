@@ -8,8 +8,10 @@ import { BreathePage } from './pages/BreathePage';
 import { JourneyPage } from './pages/JourneyPage';
 import { LoginPage } from './pages/LoginPage';
 import { RegisterPage } from './pages/RegisterPage';
+import { ForgotPasswordPage } from './pages/ForgotPasswordPage';
+import { ResetPasswordPage } from './pages/ResetPasswordPage';
 
-const AUTH_ROUTES = ['/login', '/register'];
+const AUTH_ROUTES = ['/login', '/register', '/forgot-password', '/reset-password'];
 
 function AppShell() {
   const location = useLocation();
@@ -26,6 +28,8 @@ function AppShell() {
         <Route path="/journey" element={<JourneyPage />} />
         <Route path="/login" element={<LoginPage />} />
         <Route path="/register" element={<RegisterPage />} />
+        <Route path="/forgot-password" element={<ForgotPasswordPage />} />
+        <Route path="/reset-password" element={<ResetPasswordPage />} />
       </Routes>
       {!isAuthRoute && <BottomNav />}
     </div>

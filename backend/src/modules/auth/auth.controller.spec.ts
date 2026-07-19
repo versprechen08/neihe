@@ -9,6 +9,8 @@ describe('AuthController (HTTP)', () => {
 	const authService = {
 		register: jest.fn(),
 		login: jest.fn(),
+		forgotPassword: jest.fn(),
+		resetPassword: jest.fn(),
 	};
 
 	beforeAll(async () => {
@@ -88,6 +90,52 @@ describe('AuthController (HTTP)', () => {
 
 			expect(response.status).toBe(400);
 			expect(authService.login).not.toHaveBeenCalled();
+		});
+	});
+
+	describe('POST /auth/forgot-password', () => {
+		it('returns 200 with a generic message and delegates to the service', async () => {
+			authService.forgotPassword.mockResolvedValue(undefined);
+
+			const response = await request(app.getHttpServer())
+				.post('/auth/forgot-password')
+				.send({ email: 'seeker@neihe.app' });
+
+			expect(response.status).toBe(200);
+			expect(response.body).toEqual({ message: '如果该邮箱已注册，重置链接已发送到邮箱。' });
+			expect(authService.forgotPassword).toHaveBeenCalledWith('seeker@neihe.app');
+		});
+
+		it('returns 400 for an invalid email', async () => {
+			const response = await request(app.getHttpServer())
+				.post('/auth/forgot-password')
+				.send({ email: 'not-an-email' });
+
+			expect(response.status).toBe(400);
+			expect(authService.forgotPassword).not.toHaveBeenCalled();
+		});
+	});
+
+	describe('POST /auth/reset-password', () => {
+		it('returns 200 with a confirmation message and delegates to the service', async () => {
+			authService.resetPassword.mockResolvedValue(undefined);
+
+			const response = await request(app.getHttpServer())
+				.post('/auth/reset-password')
+				.send({ token: 'raw-token', newPassword: 'new-password123' });
+
+			expect(response.status).toBe(200);
+			expect(response.body).toEqual({ message: '密码已重置，请使用新密码登录。' });
+			expect(authService.resetPassword).toHaveBeenCalledWith('raw-token', 'new-password123');
+		});
+
+		it('returns 400 when the new password is shorter than 6 characters', async () => {
+			const response = await request(app.getHttpServer())
+				.post('/auth/reset-password')
+				.send({ token: 'raw-token', newPassword: 'short' });
+
+			expect(response.status).toBe(400);
+			expect(authService.resetPassword).not.toHaveBeenCalled();
 		});
 	});
 });
